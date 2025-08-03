@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DistrictScroll – Browse</title>
+  <link rel="stylesheet" href="style.css" />
+  <!-- Config must be loaded before script.js -->
+  <script defer src="config.js"></script>
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header>
+    <div class="pill-row" id="vibes-row"></div>
+    <div class="pill-row" id="cats-row"></div>
+  </header>
+  <main class="main">
+    <div class="share">
+      <button id="share-btn" type="button">Share</button>
+      <span id="share-status"></span>
+    </div>
+    <div class="cards" id="cards"></div>
+  </main>
+  <div class="notification" id="notification"></div>
+  <!-- Inject plausible script if PLAUSIBLE_DOMAIN is provided -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      if (window.SITE_CONFIG && window.SITE_CONFIG.PLAUSIBLE_DOMAIN) {
+        var s = document.createElement('script');
+        s.setAttribute('defer', '');
+        s.setAttribute('data-domain', window.SITE_CONFIG.PLAUSIBLE_DOMAIN);
+        s.src = 'https://plausible.io/js/script.js';
+        document.head.appendChild(s);
+      }
+    });
+  </script>
+</body>
+</html>
