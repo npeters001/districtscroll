@@ -1,0 +1,4142 @@
+[
+  {
+    "id": "54kibo",
+    "name": "54kibo",
+    "homepage": "https://54kibo.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://54kibo.com/cdn/shop/products/ballerina-dolls-imina-427623.jpg?v=1685589364",
+    "categories": [
+      "Home",
+      "African Design",
+      "Contemporary Craft"
+    ],
+    "category_slugs": [
+      "home",
+      "african-design",
+      "contemporary-craft"
+    ]
+  },
+  {
+    "id": "aether",
+    "name": "AETHER",
+    "homepage": "https://aetherapparel.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "https://cdn.shopify.com/s/files/1/0218/9988/files/w_stirling_jacket_ob_05.jpg?v=1696970944&amp;width=900&amp;height=1200&amp;crop=center",
+    "categories": [
+      "Fashion",
+      "Technical Outerwear",
+      "Urban Performance"
+    ],
+    "category_slugs": [
+      "fashion",
+      "technical-outerwear",
+      "urban-performance"
+    ]
+  },
+  {
+    "id": "asrv",
+    "name": "ASRV",
+    "homepage": "https://asrv.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://asrv.com/cdn/shop/products/0703Bag_Black.jpg?v=1678407910",
+    "categories": [
+      "Fashion",
+      "Training Apparel",
+      "Technical Sportswear"
+    ],
+    "category_slugs": [
+      "fashion",
+      "training-apparel",
+      "technical-sportswear"
+    ]
+  },
+  {
+    "id": "able",
+    "name": "Able",
+    "homepage": "http://www.ableclothing.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.ableclothing.com/cdn/shop/files/LeatherConditioner-ABLE_1200x1200.png?v=1693424068",
+    "categories": [
+      "Fashion",
+      "Ethical Fashion",
+      "Women-Focused"
+    ],
+    "category_slugs": [
+      "fashion",
+      "ethical-fashion",
+      "women-focused"
+    ]
+  },
+  {
+    "id": "ace-jig",
+    "name": "Ace & Jig",
+    "homepage": "https://aceandjig.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://aceandjig.com/cdn/shop/files/ACE-AND-JIG-KIDS-MINI-DAISY-DRESS-LIGHTHOUSE_1200x1200.jpg?v=1694636280",
+    "categories": [
+      "Fashion",
+      "Textiles",
+      "Yarn-Dyed Fabrics"
+    ],
+    "category_slugs": [
+      "fashion",
+      "textiles",
+      "yarn-dyed-fabrics"
+    ]
+  },
+  {
+    "id": "activist-skincare",
+    "name": "Activist Skincare",
+    "homepage": "https://activistskincare.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://activistskincare.com/cdn/shop/products/Activist-Skincare-refillable-Precious-Oils-Active-Infusion-face-oil.jpg?v=1665853584",
+    "categories": [
+      "Beauty",
+      "Clean Beauty",
+      "Custom Formulation"
+    ],
+    "category_slugs": [
+      "beauty",
+      "clean-beauty",
+      "custom-formulation"
+    ]
+  },
+  {
+    "id": "actual-veggies",
+    "name": "Actual Veggies",
+    "homepage": "https://actualveggies.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "https://actualveggies.com/cdn/shop/files/ActualVeggiesNewTray_Black_Front_600x.png?v=1713819419",
+    "categories": [
+      "Food",
+      "Plant-Based",
+      "Whole Food Burgers"
+    ],
+    "category_slugs": [
+      "food",
+      "plant-based",
+      "whole-food-burgers"
+    ]
+  },
+  {
+    "id": "aday",
+    "name": "Aday",
+    "homepage": "https://www.thisisaday.com/",
+    "vibe": "Quiet Luxury",
+    "vibe_slug": "quiet-luxury",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.thisisaday.com/cdn/shop/products/BAL-02_BRAKESON_BLACK_FRONT_3ec3e61f-8afa-4666-ba52-681801c5bf6b.jpg?v=1643950425",
+    "categories": [
+      "Fashion",
+      "Technical Clothing",
+      "Capsule Wardrobe"
+    ],
+    "category_slugs": [
+      "fashion",
+      "technical-clothing",
+      "capsule-wardrobe"
+    ]
+  },
+  {
+    "id": "aer",
+    "name": "Aer",
+    "homepage": "https://www.aersf.com/",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://aersf.com/cdn/shop/products/aer_slimpack_black_1200x1200.jpg?v=1608259844",
+    "categories": [
+      "Fashion",
+      "Bags",
+      "Minimal Carry"
+    ],
+    "category_slugs": [
+      "fashion",
+      "bags",
+      "minimal-carry"
+    ]
+  },
+  {
+    "id": "amour-vert",
+    "name": "Amour Vert",
+    "homepage": "https://amourvert.com",
+    "vibe": "Elevated Everyday",
+    "vibe_slug": "elevated-everyday",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://amourvert.com/cdn/shop/products/0214_Sena_Ivory_Navy_Stripe_0555_web.jpg?v=1610395513",
+    "categories": [
+      "Fashion",
+      "Sustainable Fashion",
+      "Zero Waste Design"
+    ],
+    "category_slugs": [
+      "fashion",
+      "sustainable-fashion",
+      "zero-waste-design"
+    ]
+  },
+  {
+    "id": "another-tomorrow",
+    "name": "Another Tomorrow",
+    "homepage": "https://anothertomorrow.co",
+    "vibe": "Conscious Curator",
+    "vibe_slug": "conscious-curator",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://anothertomorrow.co/cdn/shop/products/TAILORED_COAT__BLACK_A321OW002-WS-BLK3.jpg?v=1693140458",
+    "categories": [
+      "Fashion",
+      "Luxury Fashion",
+      "Traceable Luxury"
+    ],
+    "category_slugs": [
+      "fashion",
+      "luxury-fashion",
+      "traceable-luxury"
+    ]
+  },
+  {
+    "id": "apothekary",
+    "name": "Apoth\ufffdkary",
+    "homepage": "https://www.apothekary.co/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Wellness",
+    "category_slug": "wellness",
+    "image": "https://cdn.shopify.com/s/files/1/0079/2808/6646/files/Take_the_Edge_Off.png?v=1738618701",
+    "categories": [
+      "Wellness",
+      "Herbal Pharmacy",
+      "Plant Medicine"
+    ],
+    "category_slugs": [
+      "wellness",
+      "herbal-pharmacy",
+      "plant-medicine"
+    ]
+  },
+  {
+    "id": "apparatus",
+    "name": "Apparatus",
+    "homepage": "https://apparatusstudio.com",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://cdn.shopify.com/s/files/1/0003/9203/6409/products/APPARATUS_EDITIONS_TN_INTERLUDE_SCONCE.jpg?v=1605486378",
+    "categories": [
+      "Home",
+      "Lighting",
+      "Studio-Crafted"
+    ],
+    "category_slugs": [
+      "home",
+      "lighting",
+      "studio-crafted"
+    ]
+  },
+  {
+    "id": "areaware",
+    "name": "Areaware",
+    "homepage": "https://www.areaware.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.areaware.com/cdn/shop/products/PigBank-gold-silo-17-HARPG_c6ef8c3b-3b30-4c6a-9568-62668d35e7fe.jpg?v=1738810916",
+    "categories": [
+      "Home",
+      "Design Objects",
+      "Functional Art"
+    ],
+    "category_slugs": [
+      "home",
+      "design-objects",
+      "functional-art"
+    ]
+  },
+  {
+    "id": "asystem",
+    "name": "Asystem",
+    "homepage": "https://asystem.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Wellness",
+    "category_slug": "wellness",
+    "image": "http://www.asystem.com/cdn/shop/files/Peak-Performance-Bundle-Stylized-PDP-Image_600x.png?v=1731957861",
+    "categories": [
+      "Wellness",
+      "Men's Care",
+      "Integrated Wellness"
+    ],
+    "category_slugs": [
+      "wellness",
+      "mens-care",
+      "integrated-wellness"
+    ]
+  },
+  {
+    "id": "athena-club",
+    "name": "Athena Club",
+    "homepage": "https://athenaclub.com",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Personal Care",
+    "category_slug": "personal-care",
+    "image": "http://athenaclub.com/cdn/shop/files/Coral_RazorBox.png?v=1739991897",
+    "categories": [
+      "Personal Care",
+      "Body Care",
+      "Subscription Essentials"
+    ],
+    "category_slugs": [
+      "personal-care",
+      "body-care",
+      "subscription-essentials"
+    ]
+  },
+  {
+    "id": "athletic-brewing",
+    "name": "Athletic Brewing",
+    "homepage": "https://athleticbrewing.com/",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://athleticbrewing.com/cdn/shop/products/USA_Pilot_BlackIPA_12oz_111222.png?v=1673282405",
+    "categories": [
+      "Food",
+      "Beer",
+      "Non-Alcoholic Craft"
+    ],
+    "category_slugs": [
+      "food",
+      "beer",
+      "non-alcoholic-craft"
+    ]
+  },
+  {
+    "id": "avocado-green-mattress",
+    "name": "Avocado Green Mattress",
+    "homepage": "https://www.avocadogreenmattress.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.avocadogreenmattress.com/cdn/shop/files/AvocadoOrganicMattressLatexMattresses_a1cd48e5-9b91-4a2b-8d86-724ce3a754c9.jpg?v=1718726100",
+    "categories": [
+      "Home",
+      "Sustainable Home",
+      "Organic Mattress"
+    ],
+    "category_slugs": [
+      "home",
+      "sustainable-home",
+      "organic-mattress"
+    ]
+  },
+  {
+    "id": "axiology",
+    "name": "Axiology",
+    "homepage": "https://axiologybeauty.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "https://cdn.shopify.com/s/files/1/0966/8836/files/AxiologyShapeStickLipBalm-5-Photoroom_5df6d5d2-cd8e-4c26-b2c5-fad39e829837.jpg?v=1731091715",
+    "categories": [
+      "Beauty",
+      "Lipstick",
+      "Zero-Waste Makeup"
+    ],
+    "category_slugs": [
+      "beauty",
+      "lipstick",
+      "zero-waste-makeup"
+    ]
+  },
+  {
+    "id": "ban-do",
+    "name": "Ban.do",
+    "homepage": "https://www.bando.com",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Lifestyle",
+    "category_slug": "lifestyle",
+    "image": "http://www.bando.com/cdn/shop/files/bando-3p-nettle-studios-daily-planner-notepad-01_6cd57d7a-8a90-4f37-9c7f-139137e93a82.jpg?v=1739483978",
+    "categories": [
+      "Lifestyle",
+      "Mental Health",
+      "Honest Stationery"
+    ],
+    "category_slugs": [
+      "lifestyle",
+      "mental-health",
+      "honest-stationery"
+    ]
+  },
+  {
+    "id": "bathing-culture",
+    "name": "Bathing Culture",
+    "homepage": "https://bathingculture.com",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "https://bathingculture.com/cdn/shop/files/M_BW-MV-C1_600x.webp?v=1689203195",
+    "categories": [
+      "Beauty",
+      "Bath Products",
+      "Sustainable Bathing"
+    ],
+    "category_slugs": [
+      "beauty",
+      "bath-products",
+      "sustainable-bathing"
+    ]
+  },
+  {
+    "id": "bellroy",
+    "name": "Bellroy",
+    "homepage": "https://bellroy.com/",
+    "vibe": "Quiet Luxury",
+    "vibe_slug": "quiet-luxury",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "https://bellroy-product-images.imgix.net/bellroy_dot_com_gallery_image/CAD/WCWA-HZN-319/0?auto=format&fit=crop&w=1500&h=1500",
+    "categories": [
+      "Fashion",
+      "Leather Goods",
+      "Slim Wallets"
+    ],
+    "category_slugs": [
+      "fashion",
+      "leather-goods",
+      "slim-wallets"
+    ]
+  },
+  {
+    "id": "big-bud-press",
+    "name": "Big Bud Press",
+    "homepage": "https://bigbudpress.com",
+    "vibe": "Vibrant Maximalist",
+    "vibe_slug": "vibrant-maximalist",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://bigbudpress.com/cdn/shop/files/01ECOMMLONGSHORTSLEEVEJUMPSUITSSAMLAGOONE4XLBYMORGAN2-10-2537923.png?v=1739992930",
+    "categories": [
+      "Fashion",
+      "Inclusive Sizing",
+      "Gender-Neutral Clothing"
+    ],
+    "category_slugs": [
+      "fashion",
+      "inclusive-sizing",
+      "gender-neutral-clothing"
+    ]
+  },
+  {
+    "id": "bite",
+    "name": "Bite",
+    "homepage": "https://bitetoothpastebits.com",
+    "vibe": "Elevated Everyday",
+    "vibe_slug": "elevated-everyday",
+    "category": "Personal Care",
+    "category_slug": "personal-care",
+    "image": "http://bitetoothpastebits.com/cdn/shop/files/Mint-Hero.jpg?v=1706725571",
+    "categories": [
+      "Personal Care",
+      "Zero Waste",
+      "Tablet Toiletries"
+    ],
+    "category_slugs": [
+      "personal-care",
+      "zero-waste",
+      "tablet-toiletries"
+    ]
+  },
+  {
+    "id": "bode",
+    "name": "Bode",
+    "homepage": "https://www.bodenewyork.com/",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://bode.com/cdn/shop/products/BODE_FW22ECOM_FLAT__LOBSTERBAKETEEBLACK_11.jpg?v=1664306167",
+    "categories": [
+      "Fashion",
+      "Designer Fashion",
+      "Historical Workwear"
+    ],
+    "category_slugs": [
+      "fashion",
+      "designer-fashion",
+      "historical-workwear"
+    ]
+  },
+  {
+    "id": "bombas",
+    "name": "Bombas",
+    "homepage": "https://bombas.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://images.contentful.com/09hbx69ra4p2/1AsKX8S1bqSwd5Nkw7yH1f/ff2d3d9698995776df017f7cc5d24b21/3679-softwhite-adult-layflat-1-transparent.png",
+    "categories": [
+      "Fashion",
+      "Socks & Basics",
+      "One-for-One Giving"
+    ],
+    "category_slugs": [
+      "fashion",
+      "socks-basics",
+      "one-for-one-giving"
+    ]
+  },
+  {
+    "id": "boy-smells",
+    "name": "Boy Smells",
+    "homepage": "https://boysmells.com/",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://boysmells.com/cdn/shop/products/Candle-Standard_Black_Kush_V1-CROP_Shad1.png?v=1626169794",
+    "categories": [
+      "Home",
+      "Candles",
+      "Gender-Neutral Scents"
+    ],
+    "category_slugs": [
+      "home",
+      "candles",
+      "gender-neutral-scents"
+    ]
+  },
+  {
+    "id": "boyish-jeans",
+    "name": "Boyish Jeans",
+    "homepage": "http://www.boyish.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.boyish.com/cdn/shop/files/strom-kivanc-tekstil-konfekiyon-dis-tic-ltd-sti-shorts-sunrise-22-the-cody-sunrise-34989908197543.jpg?v=1686770420",
+    "categories": [
+      "Fashion",
+      "Sustainable Denim",
+      "Low-Impact Jeans"
+    ],
+    "category_slugs": [
+      "fashion",
+      "sustainable-denim",
+      "low-impact-jeans"
+    ]
+  },
+  {
+    "id": "branch-basics",
+    "name": "Branch Basics",
+    "homepage": "https://branchbasics.com",
+    "vibe": "Conscious Curator",
+    "vibe_slug": "conscious-curator",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://branchbasics.com/cdn/shop/files/Website_Concentrate_Hero_Carousel1_1024x1024.png?v=1733266130",
+    "categories": [
+      "Home",
+      "Cleaning Products",
+      "Concentrate System"
+    ],
+    "category_slugs": [
+      "home",
+      "cleaning-products",
+      "concentrate-system"
+    ]
+  },
+  {
+    "id": "brightland",
+    "name": "Brightland",
+    "homepage": "https://brightland.co",
+    "vibe": "Conscious Cool",
+    "vibe_slug": "conscious-cool",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://brightland.co/cdn/shop/products/Awake920x1124_April5.png?v=1618331380",
+    "categories": [
+      "Food",
+      "Artisan Oils",
+      "California Olive Oil"
+    ],
+    "category_slugs": [
+      "food",
+      "artisan-oils",
+      "california-olive-oil"
+    ]
+  },
+  {
+    "id": "brooklyn-delhi",
+    "name": "Brooklyn Delhi",
+    "homepage": "https://brooklyndelhi.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://brooklyndelhi.com/cdn/shop/files/Tomato-Achaar.png?v=1685665404",
+    "categories": [
+      "Food",
+      "Indian Condiments",
+      "Chef-Created Achaar"
+    ],
+    "category_slugs": [
+      "food",
+      "indian-condiments",
+      "chef-created-achaar"
+    ]
+  },
+  {
+    "id": "brother-vellies",
+    "name": "Brother Vellies",
+    "homepage": "https://brothervellies.com/",
+    "vibe": "New Heritage",
+    "vibe_slug": "new-heritage",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://brothervellies.com/cdn/shop/files/JH-White-Nov23-019-A_grande.jpg?v=1703880488",
+    "categories": [
+      "Fashion",
+      "Footwear",
+      "Cultural Preservation"
+    ],
+    "category_slugs": [
+      "fashion",
+      "footwear",
+      "cultural-preservation"
+    ]
+  },
+  {
+    "id": "buffy",
+    "name": "Buffy",
+    "homepage": "https://buffy.co/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://buffy.co/cdn/shop/files/200911_Buffy_ShellsLoft_Shot1_022_RT.jpg?v=1702917551",
+    "categories": [
+      "Home",
+      "Bedding",
+      "Sustainable Comfort"
+    ],
+    "category_slugs": [
+      "home",
+      "bedding",
+      "sustainable-comfort"
+    ]
+  },
+  {
+    "id": "burlap-barrel",
+    "name": "Burlap & Barrel",
+    "homepage": "https://www.burlapandbarrel.com/",
+    "vibe": "Earth Toned Essentials",
+    "vibe_slug": "earth-toned-essentials",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://www.burlapandbarrel.com/cdn/shop/products/BURLAP-_-BARREL-HAT-_FRONT_1200x1200.jpg?v=1599361609",
+    "categories": [
+      "Food",
+      "Spices",
+      "Single-Origin"
+    ],
+    "category_slugs": [
+      "food",
+      "spices",
+      "single-origin"
+    ]
+  },
+  {
+    "id": "by-humankind",
+    "name": "By Humankind",
+    "homepage": "https://byhumankind.com",
+    "vibe": "Conscious Cool",
+    "vibe_slug": "conscious-cool",
+    "category": "Personal Care",
+    "category_slug": "personal-care",
+    "image": "http://byhumankind.com/cdn/shop/products/DO-R-ALL_LG_189df827-e70b-4d12-8818-40e51dd0042f_1024x1024.jpg?v=1621521887",
+    "categories": [
+      "Personal Care",
+      "Sustainable Care",
+      "Refill Revolution"
+    ],
+    "category_slugs": [
+      "personal-care",
+      "sustainable-care",
+      "refill-revolution"
+    ]
+  },
+  {
+    "id": "caes",
+    "name": "CAES",
+    "homepage": "http://www.caes-store.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.caes-store.com/cdn/shop/files/DSCF4893_3097f103-c0c4-404d-889f-a825c26b8254_1024x1024.jpg?v=1699972939",
+    "categories": [
+      "Fashion",
+      "Timeless Fashion",
+      "Season-Free Design"
+    ],
+    "category_slugs": [
+      "fashion",
+      "timeless-fashion",
+      "season-free-design"
+    ]
+  },
+  {
+    "id": "cap-beauty",
+    "name": "CAP Beauty",
+    "homepage": "https://capbeauty.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://www.capbeauty.com/cdn/shop/files/3-2_1024x1024.jpg?v=1739370217",
+    "categories": [
+      "Beauty",
+      "Natural Beauty",
+      "Wellness Beauty"
+    ],
+    "category_slugs": [
+      "beauty",
+      "natural-beauty",
+      "wellness-beauty"
+    ]
+  },
+  {
+    "id": "caraway",
+    "name": "Caraway",
+    "homepage": "https://www.carawayhome.com/",
+    "vibe": "Elevated Everyday",
+    "vibe_slug": "elevated-everyday",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://images.ctfassets.net/vitsw3itv0qj/3y3zxjgsSLtjKqzEoFWU3b/bbba6de505161c3c9b746bdfb3cfbdfb/Ceramic_Fry_Pan_-_Navy_-_Presentation.jpg",
+    "categories": [
+      "Home",
+      "Cookware",
+      "Non-Toxic Ceramic"
+    ],
+    "category_slugs": [
+      "home",
+      "cookware",
+      "non-toxic-ceramic"
+    ]
+  },
+  {
+    "id": "cariuma",
+    "name": "Cariuma",
+    "homepage": "https://www.cariuma.com",
+    "vibe": "Conscious Cool",
+    "vibe_slug": "conscious-cool",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.cariuma.com/cdn/shop/products/oca-low-off-white-canvas-sneaker.side-view_bef52cc7-2318-4354-bd02-edd4063b47e7.png?v=1650340549",
+    "categories": [
+      "Fashion",
+      "Sustainable Footwear",
+      "Eco Sneakers"
+    ],
+    "category_slugs": [
+      "fashion",
+      "sustainable-footwear",
+      "eco-sneakers"
+    ]
+  },
+  {
+    "id": "christy-dawn",
+    "name": "Christy Dawn",
+    "homepage": "https://christydawn.com",
+    "vibe": "Earth Toned Essentials",
+    "vibe_slug": "earth-toned-essentials",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://christydawn.com/cdn/shop/files/TerracottaDawn3.jpg?v=1722280251&width=1024",
+    "categories": [
+      "Fashion",
+      "Farm-to-Closet",
+      "Regenerative Fashion"
+    ],
+    "category_slugs": [
+      "fashion",
+      "farm-to-closet",
+      "regenerative-fashion"
+    ]
+  },
+  {
+    "id": "clare-v",
+    "name": "Clare V.",
+    "homepage": "https://www.clarev.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.clarev.com/cdn/shop/files/La-Vie-de-Clare-V.---front_grande.jpg?v=1690485179",
+    "categories": [
+      "Fashion",
+      "Bags",
+      "French-Inspired"
+    ],
+    "category_slugs": [
+      "fashion",
+      "bags",
+      "french-inspired"
+    ]
+  },
+  {
+    "id": "cocokind",
+    "name": "Cocokind",
+    "homepage": "https://cocokind.com",
+    "vibe": "Earth Toned Essentials",
+    "vibe_slug": "earth-toned-essentials",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://www.cocokind.com/cdn/shop/products/vitamin-c-glow-serum-881572.png?v=1698860367",
+    "categories": [
+      "Beauty",
+      "Clean Beauty",
+      "Transparent Beauty"
+    ],
+    "category_slugs": [
+      "beauty",
+      "clean-beauty",
+      "transparent-beauty"
+    ]
+  },
+  {
+    "id": "cold-picnic",
+    "name": "Cold Picnic",
+    "homepage": "https://coldpicnic.com",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://coldpicnic.com/cdn/shop/files/COLDPICNIC_HRHB-15B_FRAMES_RUG-MAIN_1200x1200.jpg?v=1694618889",
+    "categories": [
+      "Home",
+      "Textiles",
+      "Abstract Design"
+    ],
+    "category_slugs": [
+      "home",
+      "textiles",
+      "abstract-design"
+    ]
+  },
+  {
+    "id": "cole-buxton",
+    "name": "Cole Buxton",
+    "homepage": "https://www.colebuxton.com",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.colebuxton.com/cdn/shop/files/Cole-Buxton-warm-up-t-shirt-AW23WUT001-001-XS.jpg?v=1710861121",
+    "categories": [
+      "Fashion",
+      "Luxury Sportswear",
+      "Athletic Minimalism"
+    ],
+    "category_slugs": [
+      "fashion",
+      "luxury-sportswear",
+      "athletic-minimalism"
+    ]
+  },
+  {
+    "id": "collina-strada",
+    "name": "Collina Strada",
+    "homepage": "https://collinastrada.com/",
+    "vibe": "Vibrant Maximalist",
+    "vibe_slug": "vibrant-maximalist",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://collinastrada.com/cdn/shop/files/ZBvgLBdA.png?v=1711713222",
+    "categories": [
+      "Fashion",
+      "Designer Fashion",
+      "Sustainable Art"
+    ],
+    "category_slugs": [
+      "fashion",
+      "designer-fashion",
+      "sustainable-art"
+    ]
+  },
+  {
+    "id": "coming-soon",
+    "name": "Coming Soon",
+    "homepage": "https://comingsoonnewyork.com",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://comingsoonnewyork.com/cdn/shop/files/FABI_SHOOT_5538582.jpg?v=1731960621",
+    "categories": [
+      "Home",
+      "Homewares",
+      "Curated Vintage"
+    ],
+    "category_slugs": [
+      "home",
+      "homewares",
+      "curated-vintage"
+    ]
+  },
+  {
+    "id": "copper-cow-coffee",
+    "name": "Copper Cow Coffee",
+    "homepage": "https://coppercowcoffee.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://coppercowcoffee.com/cdn/shop/files/CCC-PDP-4Pack-BestSellersSet.png?v=1686600017",
+    "categories": [
+      "Food",
+      "Specialty Coffee",
+      "Vietnamese Pour-Over"
+    ],
+    "category_slugs": [
+      "food",
+      "specialty-coffee",
+      "vietnamese-pour-over"
+    ]
+  },
+  {
+    "id": "corpus",
+    "name": "Corpus",
+    "homepage": "https://corpusnaturals.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://corpusnaturals.com/cdn/shop/files/Corpus_PDP_DeoSpray_Pomelo_1x1_ab538c52-7226-4d8f-983c-ff46cc8c177b.jpg?v=1727899034",
+    "categories": [
+      "Beauty",
+      "Natural Deodorant",
+      "Plant-Based Deo"
+    ],
+    "category_slugs": [
+      "beauty",
+      "natural-deodorant",
+      "plant-based-deo"
+    ]
+  },
+  {
+    "id": "costa-brazil",
+    "name": "Costa Brazil",
+    "homepage": "https://livecostabrazil.com",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://livecostabrazil.com/cdn/shop/files/CB_PDP_Trl25_KAYA_01a_1600x1600_ee196009-f92c-4ea9-998e-29cdaeba3c55.jpg?v=1739488970",
+    "categories": [
+      "Beauty",
+      "Clean Beauty",
+      "Rainforest Sourced"
+    ],
+    "category_slugs": [
+      "beauty",
+      "clean-beauty",
+      "rainforest-sourced"
+    ]
+  },
+  {
+    "id": "courant",
+    "name": "Courant",
+    "homepage": "https://staycourant.com",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Tech",
+    "category_slug": "tech",
+    "image": "http://staycourant.com/cdn/shop/products/CT_VM_Catch1_Saddle_GrayBackground_Product_01_Web_1024x1024.jpg?v=1659965232",
+    "categories": [
+      "Tech",
+      "Wireless Charging",
+      "Premium Chargers"
+    ],
+    "category_slugs": [
+      "tech",
+      "wireless-charging",
+      "premium-chargers"
+    ]
+  },
+  {
+    "id": "coyuchi",
+    "name": "Coyuchi",
+    "homepage": NaN,
+    "vibe": "Earth Toned Essentials",
+    "vibe_slug": "earth-toned-essentials",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.coyuchi.com/cdn/shop/files/cloudloom_towels_b_sp21_1.jpg?v=1718136306",
+    "categories": [
+      "Home",
+      "Organic Textiles",
+      "Circular Linens"
+    ],
+    "category_slugs": [
+      "home",
+      "organic-textiles",
+      "circular-linens"
+    ]
+  },
+  {
+    "id": "craighill",
+    "name": "Craighill",
+    "homepage": "https://craighill.co/",
+    "vibe": "New Heritage",
+    "vibe_slug": "new-heritage",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://craighill.co/cdn/shop/products/desk-pad-4x5.jpg?v=1668623944",
+    "categories": [
+      "Home",
+      "Design Objects",
+      "Functional Design"
+    ],
+    "category_slugs": [
+      "home",
+      "design-objects",
+      "functional-design"
+    ]
+  },
+  {
+    "id": "cuyana",
+    "name": "Cuyana",
+    "homepage": "https://cuyana.com",
+    "vibe": "Quiet Luxury",
+    "vibe_slug": "quiet-luxury",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://cuyana.com/cdn/shop/products/PLP_Hero_1080x1350_SP23_EasyTote_Biscuit_Hero_2785.jpg?v=1708545335",
+    "categories": [
+      "Fashion",
+      "Minimal Fashion",
+      "Conscious Luxury"
+    ],
+    "category_slugs": [
+      "fashion",
+      "minimal-fashion",
+      "conscious-luxury"
+    ]
+  },
+  {
+    "id": "dagne-dover",
+    "name": "Dagne Dover",
+    "homepage": "https://www.dagnedover.com/",
+    "vibe": "Elevated Everyday",
+    "vibe_slug": "elevated-everyday",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "https://www.dagnedover.com//www.dagnedover.com/cdn/shop/files/Signature_Daily_Onyx_L_FrontHandlesUp_2048x2048.jpgcopy.png?v=1691437117&width=240",
+    "categories": [
+      "Fashion",
+      "Bags",
+      "Performance Design"
+    ],
+    "category_slugs": [
+      "fashion",
+      "bags",
+      "performance-design"
+    ]
+  },
+  {
+    "id": "de-la-espada",
+    "name": "De La Espada",
+    "homepage": "https://delaespada.com",
+    "vibe": "Quiet Luxury",
+    "vibe_slug": "quiet-luxury",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://delaespada.com/cdn/shop/products/410AndoChairbyMatthewHiltoninBaypaintedashweb_1200x1200.jpg?v=1619605317",
+    "categories": [
+      "Home",
+      "Furniture",
+      "Craft Modernism"
+    ],
+    "category_slugs": [
+      "home",
+      "furniture",
+      "craft-modernism"
+    ]
+  },
+  {
+    "id": "deux",
+    "name": "Deux",
+    "homepage": "https://eatdeux.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "https://cdn.shopify.com/s/files/1/0399/2069/7506/files/21.png?v=1713716191",
+    "categories": [
+      "Food",
+      "Cookie Dough",
+      "Functional Desserts"
+    ],
+    "category_slugs": [
+      "food",
+      "cookie-dough",
+      "functional-desserts"
+    ]
+  },
+  {
+    "id": "diaspora-co",
+    "name": "Diaspora Co.",
+    "homepage": "https://www.diasporaco.com",
+    "vibe": "Quiet Luxury",
+    "vibe_slug": "quiet-luxury",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://www.diasporaco.com/cdn/shop/files/PDP_Full_Bleed_pragati_tumeric.png?v=1727169888",
+    "categories": [
+      "Food",
+      "Spice Trade",
+      "Equitable Spices"
+    ],
+    "category_slugs": [
+      "food",
+      "spice-trade",
+      "equitable-spices"
+    ]
+  },
+  {
+    "id": "diaspora-co-3bff7",
+    "name": "Diaspora Co.",
+    "homepage": "https://www.diasporaco.com",
+    "vibe": "Quiet Luxury",
+    "vibe_slug": "quiet-luxury",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://www.diasporaco.com/cdn/shop/products/spice-spoons.png?v=1708724790",
+    "categories": [
+      "Food",
+      "Single-Origin Spices",
+      "Decolonized Spice Trade"
+    ],
+    "category_slugs": [
+      "food",
+      "single-origin-spices",
+      "decolonized-spice-trade"
+    ]
+  },
+  {
+    "id": "droplette",
+    "name": "Droplette",
+    "homepage": "https://droplette.io",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://droplette.io/cdn/shop/files/cleanser-capsules-PDP.jpg?v=1739924258",
+    "categories": [
+      "Beauty",
+      "Skincare Tech",
+      "Mist Device"
+    ],
+    "category_slugs": [
+      "beauty",
+      "skincare-tech",
+      "mist-device"
+    ]
+  },
+  {
+    "id": "dropps",
+    "name": "Dropps",
+    "homepage": "https://www.dropps.com",
+    "vibe": "Conscious Cool",
+    "vibe_slug": "conscious-cool",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.dropps.com/cdn/shop/files/Dropps_BFCM_BestsellerHouseholdBundle_FreeandClear-Unscented-Oxi_1024x1024.png?v=1726671624",
+    "categories": [
+      "Home",
+      "Clean Home",
+      "Zero Waste Cleaning"
+    ],
+    "category_slugs": [
+      "home",
+      "clean-home",
+      "zero-waste-cleaning"
+    ]
+  },
+  {
+    "id": "duer",
+    "name": "Duer",
+    "homepage": "https://shopduer.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://shopduer.com/cdn/shop/files/MSLT2301_Performance_Denim_Short_Volcanic_002-FB.jpg?v=1718905709&width=1080",
+    "categories": [
+      "Fashion",
+      "Performance Denim",
+      "Technical Jeans"
+    ],
+    "category_slugs": [
+      "fashion",
+      "performance-denim",
+      "technical-jeans"
+    ]
+  },
+  {
+    "id": "dusen-dusen",
+    "name": "Dusen Dusen",
+    "homepage": "https://www.dusendusen.com",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.dusendusen.com/cdn/shop/files/240603_DusenDusen_0042-webvert_600x600.jpg?v=1727470201",
+    "categories": [
+      "Home",
+      "Textile Design",
+      "Bold Patterns"
+    ],
+    "category_slugs": [
+      "home",
+      "textile-design",
+      "bold-patterns"
+    ]
+  },
+  {
+    "id": "earth-harbor",
+    "name": "Earth Harbor",
+    "homepage": "https://earthharbor.com",
+    "vibe": "Earth Toned Essentials",
+    "vibe_slug": "earth-toned-essentials",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "https://earthharbor.com/cdn/shop/files/Serums_Web_1200x1500.jpg?v=1731687482",
+    "categories": [
+      "Beauty",
+      "Blue Beauty",
+      "Ocean-Safe Skincare"
+    ],
+    "category_slugs": [
+      "beauty",
+      "blue-beauty",
+      "ocean-safe-skincare"
+    ]
+  },
+  {
+    "id": "east-fork",
+    "name": "East Fork",
+    "homepage": "https://www.eastfork.com",
+    "vibe": "Earth Toned Essentials",
+    "vibe_slug": "earth-toned-essentials",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://cdn.sanity.io/images/be6sw5hj/production/ac5969a7b847446ba4d9e31075ee5d33ddf6cdbc-2000x1125.jpg?rect=0,37,2000,1050&amp;w=1200&amp;h=630",
+    "categories": [
+      "Home",
+      "Ceramics",
+      "Mountain Pottery"
+    ],
+    "category_slugs": [
+      "home",
+      "ceramics",
+      "mountain-pottery"
+    ]
+  },
+  {
+    "id": "ekobo",
+    "name": "Ekobo",
+    "homepage": "http://by-ekobo.com",
+    "vibe": "New Heritage",
+    "vibe_slug": "new-heritage",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://by-ekobo.com/cdn/shop/products/90208.black.jpg?v=1654785975",
+    "categories": [
+      "Home",
+      "Sustainable Home",
+      "Bamboo Housewares"
+    ],
+    "category_slugs": [
+      "home",
+      "sustainable-home",
+      "bamboo-housewares"
+    ]
+  },
+  {
+    "id": "ember",
+    "name": "Ember",
+    "homepage": "https://ember.com",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://ember.com/cdn/shop/files/ember_CM1910_00-black_600x.jpg?v=1684887832",
+    "categories": [
+      "Home",
+      "Smart Mugs",
+      "Temperature Control"
+    ],
+    "category_slugs": [
+      "home",
+      "smart-mugs",
+      "temperature-control"
+    ]
+  },
+  {
+    "id": "equator",
+    "name": "Equator",
+    "homepage": "https://www.equatorcoffees.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.equatorcoffees.com/cdn/shop/files/Gift-a-Coffee-Subscription-Blends-Equator-Coffees.png?v=1734370365",
+    "categories": [
+      "Home",
+      "Coffee Machines",
+      "Smart Brewing"
+    ],
+    "category_slugs": [
+      "home",
+      "coffee-machines",
+      "smart-brewing"
+    ]
+  },
+  {
+    "id": "ethique",
+    "name": "Ethique",
+    "homepage": "https://ethique.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://ethique.com/cdn/shop/files/PDP_TONING-Shampoo_ETHIQUE_2000x2000_HERO.jpg?v=1734057573",
+    "categories": [
+      "Beauty",
+      "Zero Waste",
+      "Beauty Bars"
+    ],
+    "category_slugs": [
+      "beauty",
+      "zero-waste",
+      "beauty-bars"
+    ]
+  },
+  {
+    "id": "ettitude",
+    "name": "Ettitude",
+    "homepage": "https://www.ettitude.com",
+    "vibe": "Elevated Everyday",
+    "vibe_slug": "elevated-everyday",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.ettitude.com/cdn/shop/files/CopyofUntitled_6-29456392.jpg?v=1726594887",
+    "categories": [
+      "Home",
+      "Bedding",
+      "Bamboo Innovation"
+    ],
+    "category_slugs": [
+      "home",
+      "bedding",
+      "bamboo-innovation"
+    ]
+  },
+  {
+    "id": "forme",
+    "name": "FORME",
+    "homepage": "https://formelife.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Wellness",
+    "category_slug": "wellness",
+    "image": "http://formelife.com/cdn/shop/products/hardware_studio_01.jpg?v=1675234232",
+    "categories": [
+      "Wellness",
+      "Posture Training",
+      "Smart Apparel"
+    ],
+    "category_slugs": [
+      "wellness",
+      "posture-training",
+      "smart-apparel"
+    ]
+  },
+  {
+    "id": "fat-and-the-moon",
+    "name": "Fat and the Moon",
+    "homepage": "http://www.fatandthemoon.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://www.fatandthemoon.com/cdn/shop/products/Lip-Cheek-Stain-1_2oz-WEB.png?v=1634699215",
+    "categories": [
+      "Beauty",
+      "Herbal Beauty",
+      "Folk Remedies"
+    ],
+    "category_slugs": [
+      "beauty",
+      "herbal-beauty",
+      "folk-remedies"
+    ]
+  },
+  {
+    "id": "feastables",
+    "name": "Feastables",
+    "homepage": "https://feastables.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "https://cdn.shopify.com/s/files/1/0551/6060/2784/files/Chocolate_Dark_60g_Carton.png?v=1728499954",
+    "categories": [
+      "Food",
+      "Chocolate",
+      "Clean Chocolate"
+    ],
+    "category_slugs": [
+      "food",
+      "chocolate",
+      "clean-chocolate"
+    ]
+  },
+  {
+    "id": "ferm-living",
+    "name": "Ferm Living",
+    "homepage": "https://fermliving.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://fermliving.com/cdn/shop/files/9401_1_1200x630.png?v=1740485196",
+    "categories": [
+      "Home",
+      "Scandinavian Design",
+      "Playful Minimalism"
+    ],
+    "category_slugs": [
+      "home",
+      "scandinavian-design",
+      "playful-minimalism"
+    ]
+  },
+  {
+    "id": "fishwife",
+    "name": "Fishwife",
+    "homepage": "https://eatfishwife.com/",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://eatfishwife.com/cdn/shop/files/FishwifeCoookbook2114_1200x.jpg?v=1739977747",
+    "categories": [
+      "Food",
+      "Tinned Fish",
+      "Ethical Seafood"
+    ],
+    "category_slugs": [
+      "food",
+      "tinned-fish",
+      "ethical-seafood"
+    ]
+  },
+  {
+    "id": "fix-fogg",
+    "name": "Fix & Fogg",
+    "homepage": "https://fixandfogg.co.nz",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://fixandfogg.co.nz/cdn/shop/files/PlinthHeroPhotos_SuperCrunchy375g_1200x1200.jpg?v=1701138245",
+    "categories": [
+      "Food",
+      "Artisan Food",
+      "Craft Nut Butter"
+    ],
+    "category_slugs": [
+      "food",
+      "artisan-food",
+      "craft-nut-butter"
+    ]
+  },
+  {
+    "id": "flamingo-estate",
+    "name": "Flamingo Estate",
+    "homepage": "https://flamingoestate.com",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://flamingoestate.com/cdn/shop/files/HeritageExtraVirginOliveOil.png?v=1723162808&width=2048",
+    "categories": [
+      "Food",
+      "Garden Grown",
+      "Estate Products"
+    ],
+    "category_slugs": [
+      "food",
+      "garden-grown",
+      "estate-products"
+    ]
+  },
+  {
+    "id": "floyd",
+    "name": "Floyd",
+    "homepage": "https://floydhome.com/",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://floydhome.com/cdn/shop/products/Table_Default_Birch_-_Black.0001.png?v=1670001437",
+    "categories": [
+      "Home",
+      "Furniture",
+      "Modular Design"
+    ],
+    "category_slugs": [
+      "home",
+      "furniture",
+      "modular-design"
+    ]
+  },
+  {
+    "id": "fluidstance",
+    "name": "Fluidstance",
+    "homepage": "https://fluidstance.com",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Office",
+    "category_slug": "office",
+    "image": "http://fluidstance.com/cdn/shop/files/fluidstance-accessories-upmat-29996942393526.jpg?v=1735844116 ",
+    "categories": [
+      "Office",
+      "Standing Desk",
+      "Balance Board"
+    ],
+    "category_slugs": [
+      "office",
+      "standing-desk",
+      "balance-board"
+    ]
+  },
+  {
+    "id": "for-days",
+    "name": "For Days",
+    "homepage": "http://fordays.com",
+    "vibe": "Conscious Curator",
+    "vibe_slug": "conscious-curator",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://fordays.com/cdn/shop/products/ALWM042211_ALSPRTEMBOSSEDSWEATSHIRT_BLACK_13_320403a7-3ce4-4283-893d-1877d38389b0.jpg?v=1680549234",
+    "categories": [
+      "Fashion",
+      "Circular Fashion",
+      "Take-Back System"
+    ],
+    "category_slugs": [
+      "fashion",
+      "circular-fashion",
+      "take-back-system"
+    ]
+  },
+  {
+    "id": "four-sigmatic",
+    "name": "Four Sigmatic",
+    "homepage": "https://us.foursigmatic.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "https://cdn.shopify.com/s/files/1/0739/9341/files/focus-coffee-pods-24ct-plp-render_ffabbac7-f624-44a7-9443-75a79bf370be.jpg?v=1738920634",
+    "categories": [
+      "Food",
+      "Functional Food",
+      "Mushroom Coffee"
+    ],
+    "category_slugs": [
+      "food",
+      "functional-food",
+      "mushroom-coffee"
+    ]
+  },
+  {
+    "id": "four-sigmatic-a7993",
+    "name": "Four Sigmatic",
+    "homepage": "https://us.foursigmatic.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "https://cdn.shopify.com/s/files/1/0739/9341/files/Latte_Funnel_c58a6534-013a-4809-9ac1-d2c6f0c23e57.jpg?v=1737560965",
+    "categories": [
+      "Food",
+      "Functional Mushrooms",
+      "Mushroom Coffee"
+    ],
+    "category_slugs": [
+      "food",
+      "functional-mushrooms",
+      "mushroom-coffee"
+    ]
+  },
+  {
+    "id": "frama",
+    "name": "Frama",
+    "homepage": "https://framacph.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://framacph.com/cdn/shop/files/FRAMA-Rivet-Shelf-Small.webp?v=1726570737",
+    "categories": [
+      "Home",
+      "Minimal Design",
+      "Timeless Objects"
+    ],
+    "category_slugs": [
+      "home",
+      "minimal-design",
+      "timeless-objects"
+    ]
+  },
+  {
+    "id": "fredericks-mae",
+    "name": "Fredericks & Mae",
+    "homepage": "https://fredericksandmae.com",
+    "vibe": "New Heritage",
+    "vibe_slug": "new-heritage",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://fredericksandmae.com/cdn/shop/files/10032024082515238_1200x1200.jpg?v=1727965608",
+    "categories": [
+      "Home",
+      "Object Design",
+      "Ritual Tools"
+    ],
+    "category_slugs": [
+      "home",
+      "object-design",
+      "ritual-tools"
+    ]
+  },
+  {
+    "id": "full-circle",
+    "name": "Full Circle",
+    "homepage": "http://fullcirclehome.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://fullcirclehome.com/cdn/shop/products/FC21404W_DishJockey_OP_J_2000x.jpg?v=1659021093",
+    "categories": [
+      "Home",
+      "Sustainable Home",
+      "Compostable Tools"
+    ],
+    "category_slugs": [
+      "home",
+      "sustainable-home",
+      "compostable-tools"
+    ]
+  },
+  {
+    "id": "gabriela-hearst",
+    "name": "Gabriela Hearst",
+    "homepage": "https://gabrielahearst.com",
+    "vibe": "Quiet Luxury",
+    "vibe_slug": "quiet-luxury",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://gabrielahearst.com/cdn/shop/files/GreenNina_grande.webp?v=1696972630",
+    "categories": [
+      "Fashion",
+      "Luxury Fashion",
+      "Zero Waste Luxury"
+    ],
+    "category_slugs": [
+      "fashion",
+      "luxury-fashion",
+      "zero-waste-luxury"
+    ]
+  },
+  {
+    "id": "geologie",
+    "name": "Geologie",
+    "homepage": "https://geologie.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Personal Care",
+    "category_slug": "personal-care",
+    "image": "https://geologie.com//geologie.com/cdn/shop/files/Cover.png?crop=center&height=630&v=1709140922&width=1200",
+    "categories": [
+      "Personal Care",
+      "Men's Skincare",
+      "Personalized Regimen"
+    ],
+    "category_slugs": [
+      "personal-care",
+      "mens-skincare",
+      "personalized-regimen"
+    ]
+  },
+  {
+    "id": "ghia",
+    "name": "Ghia",
+    "homepage": "https://drinkghia.com",
+    "vibe": "Conscious Cool",
+    "vibe_slug": "conscious-cool",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://drinkghia.com/cdn/shop/files/Berry_Ap_ritif_PDP.jpg?v=1739331169",
+    "categories": [
+      "Food",
+      "Non-Alcoholic",
+      "Botanical Aperitif"
+    ],
+    "category_slugs": [
+      "food",
+      "non-alcoholic",
+      "botanical-aperitif"
+    ]
+  },
+  {
+    "id": "golde",
+    "name": "Golde",
+    "homepage": "https://golde.co",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Wellness",
+    "category_slug": "wellness",
+    "image": "http://golde.co/cdn/shop/products/PureMatcha40_Front_IKH04739_grande.jpg?v=1607447026",
+    "categories": [
+      "Wellness",
+      "Superfood",
+      "Modern Matcha"
+    ],
+    "category_slugs": [
+      "wellness",
+      "superfood",
+      "modern-matcha"
+    ]
+  },
+  {
+    "id": "goodee",
+    "name": "Goodee",
+    "homepage": "http://www.goodeeworld.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.goodeeworld.com/cdn/shop/files/F-B-BLK-NAT_28317_1200x1200.jpg?v=1733877000",
+    "categories": [
+      "Home",
+      "Marketplace",
+      "Vetted Ethical Goods"
+    ],
+    "category_slugs": [
+      "home",
+      "marketplace",
+      "vetted-ethical-goods"
+    ]
+  },
+  {
+    "id": "goodee-9ff88",
+    "name": "Goodee",
+    "homepage": "https://www.goodeeworld.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.goodeeworld.com/cdn/shop/files/F-B-BLK-NAT_28317_1200x1200.jpg?v=1733877000",
+    "categories": [
+      "Home",
+      "Ethical Goods",
+      "Verified Marketplace"
+    ],
+    "category_slugs": [
+      "home",
+      "ethical-goods",
+      "verified-marketplace"
+    ]
+  },
+  {
+    "id": "grain-design",
+    "name": "Grain Design",
+    "homepage": "https://graindesign.com/",
+    "vibe": "Earth Toned Essentials",
+    "vibe_slug": "earth-toned-essentials",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://static1.squarespace.com/static/62182653e513be3f156ef6f3/62183ada39495f02dc93c6fa/62183ada39495f02dc93c723/1704833159142/IMG_3501p_DishDesk.jpg?format=1500w",
+    "categories": [
+      "Home",
+      "Furniture",
+      "Sustainable Woodworking"
+    ],
+    "category_slugs": [
+      "home",
+      "furniture",
+      "sustainable-woodworking"
+    ]
+  },
+  {
+    "id": "graza",
+    "name": "Graza",
+    "homepage": "https://www.graza.co",
+    "vibe": "Earth Toned Essentials",
+    "vibe_slug": "earth-toned-essentials",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/30_product_sizzle750ml_0002_fe965569-a5c7-45ca-8809-47da9aba1e32.jpg?v=1740435547",
+    "categories": [
+      "Food",
+      "Olive Oil",
+      "Squeeze Bottle"
+    ],
+    "category_slugs": [
+      "food",
+      "olive-oil",
+      "squeeze-bottle"
+    ]
+  },
+  {
+    "id": "great-jones",
+    "name": "Great Jones",
+    "homepage": "https://greatjonesgoods.com/",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://greatjonesgoods.com/cdn/shop/products/BABYDUTCH_14296_211119-5_1024x1024.png?v=1637629123",
+    "categories": [
+      "Home",
+      "Cookware",
+      "Modern Classics"
+    ],
+    "category_slugs": [
+      "home",
+      "cookware",
+      "modern-classics"
+    ]
+  },
+  {
+    "id": "hodinkee",
+    "name": "HODINKEE",
+    "homepage": "https://shop.hodinkee.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://shop.hodinkee.com/cdn/shop/products/2801-OmegaPW-A_grande.jpg?v=1627474892",
+    "categories": [
+      "Fashion",
+      "Watches",
+      "Watch Authority"
+    ],
+    "category_slugs": [
+      "fashion",
+      "watches",
+      "watch-authority"
+    ]
+  },
+  {
+    "id": "hanahana-beauty",
+    "name": "Hanahana Beauty",
+    "homepage": "https://hanahanabeauty.com",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://hanahanabeauty.com/cdn/shop/files/PerfectGift.jpg?v=1698432735&width=1024",
+    "categories": [
+      "Beauty",
+      "Shea Butter",
+      "Ethical Sourcing"
+    ],
+    "category_slugs": [
+      "beauty",
+      "shea-butter",
+      "ethical-sourcing"
+    ]
+  },
+  {
+    "id": "haus",
+    "name": "Haus",
+    "homepage": "https://drink.haus",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://drink.haus/cdn/shop/products/Haus-CitrusFlower-V3_d54ce11c-395d-4bc0-af08-39498f13bf57.png?v=1676569599",
+    "categories": [
+      "Food",
+      "Aperitifs",
+      "Low-ABV Spirits"
+    ],
+    "category_slugs": [
+      "food",
+      "aperitifs",
+      "low-abv-spirits"
+    ]
+  },
+  {
+    "id": "hawkins-new-york",
+    "name": "Hawkins New York",
+    "homepage": "https://hawkinsnewyork.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.hawkinsnewyork.com/cdn/shop/products/HNY.600.10.019.000_b_1024x1024.jpg?v=1724796044",
+    "categories": [
+      "Home",
+      "Homewares",
+      "Essential Objects"
+    ],
+    "category_slugs": [
+      "home",
+      "homewares",
+      "essential-objects"
+    ]
+  },
+  {
+    "id": "heath-ceramics",
+    "name": "Heath Ceramics",
+    "homepage": "https://www.heathceramics.com",
+    "vibe": "New Heritage",
+    "vibe_slug": "new-heritage",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.heathceramics.com/cdn/shop/products/large-mug-opaque-white-heath-ceramics_700-05_grande.jpg?v=1701723930",
+    "categories": [
+      "Home",
+      "Ceramics",
+      "American Pottery"
+    ],
+    "category_slugs": [
+      "home",
+      "ceramics",
+      "american-pottery"
+    ]
+  },
+  {
+    "id": "hibar",
+    "name": "HiBar",
+    "homepage": "https://hellohibar.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://hellohibar.com/cdn/shop/products/HiBAR_Moisturize-Shampoo_5215d0d1-7e68-4cd3-9380-ef6b15957b90.jpg?v=1698416412",
+    "categories": [
+      "Beauty",
+      "Zero Waste",
+      "Solid Beauty"
+    ],
+    "category_slugs": [
+      "beauty",
+      "zero-waste",
+      "solid-beauty"
+    ]
+  },
+  {
+    "id": "house-of-sunny",
+    "name": "House of Sunny",
+    "homepage": "https://www.houseofsunny.co.uk/",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://houseofsunny.com/cdn/shop/files/sqCopyof230807_HOS_ECOMM_25_007.jpg?v=1735082479",
+    "categories": [
+      "Fashion",
+      "Contemporary Fashion",
+      "Eco-Conscious Design"
+    ],
+    "category_slugs": [
+      "fashion",
+      "contemporary-fashion",
+      "eco-conscious-design"
+    ]
+  },
+  {
+    "id": "hu-kitchen",
+    "name": "Hu Kitchen",
+    "homepage": "https://hukitchen.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://hukitchen.com/cdn/shop/files/almondbutterquinoadark_large.png?v=1700249861",
+    "categories": [
+      "Food",
+      "Paleo Chocolate",
+      "Clean Snacking"
+    ],
+    "category_slugs": [
+      "food",
+      "paleo-chocolate",
+      "clean-snacking"
+    ]
+  },
+  {
+    "id": "huron",
+    "name": "Huron",
+    "homepage": "https://usehuron.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Personal Care",
+    "category_slug": "personal-care",
+    "image": "http://usehuron.com/cdn/shop/files/2025_01_BodyWash_SSDW_Ecom_12oz_NEWSCENTBadge_1300x_7a57a1e1-0e60-408f-ac01-d23d8cb7c829.jpg?v=1739287200",
+    "categories": [
+      "Personal Care",
+      "Men's Grooming",
+      "Clean Basics"
+    ],
+    "category_slugs": [
+      "personal-care",
+      "mens-grooming",
+      "clean-basics"
+    ]
+  },
+  {
+    "id": "in-fiore",
+    "name": "In Fiore",
+    "homepage": "https://infiore.net",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://infiore.net/cdn/shop/products/Calme_2020_590x828_00d5c32c-a608-41d8-99e6-3d23d5dd0578_1024x1024.jpg?v=1586819042",
+    "categories": [
+      "Beauty",
+      "Botanical Beauty",
+      "Phyto Aromatherapy"
+    ],
+    "category_slugs": [
+      "beauty",
+      "botanical-beauty",
+      "phyto-aromatherapy"
+    ]
+  },
+  {
+    "id": "industry-west",
+    "name": "Industry West",
+    "homepage": "https://www.industrywest.com/",
+    "vibe": "Elevated Everyday",
+    "vibe_slug": "elevated-everyday",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://cdn.shopify.com/s/files/1/0556/4704/3724/products/industry_west_product_Cane_diningchair_natural_02_ca8f6c97-4cba-4856-9e0a-24c48af303d6.jpg?v=1652372367",
+    "categories": [
+      "Home",
+      "Furniture",
+      "Modern Industrial"
+    ],
+    "category_slugs": [
+      "home",
+      "furniture",
+      "modern-industrial"
+    ]
+  },
+  {
+    "id": "jumper-threads",
+    "name": "JUMPER THREADS",
+    "homepage": "https://www.jumperthreads.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.jumperthreads.com/cdn/shop/products/shirts-not-your-average-undershirt-vneck-1_grande.jpg?v=1575588367",
+    "categories": [
+      "Fashion",
+      "Technical Basics",
+      "72-Hour Shirt"
+    ],
+    "category_slugs": [
+      "fashion",
+      "technical-basics",
+      "72-hour-shirt"
+    ]
+  },
+  {
+    "id": "jao-brand",
+    "name": "Jao Brand",
+    "homepage": "https://jaobrand.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://jaobrand.com/cdn/shop/files/hand-salve-jao-brand-252503.jpg?v=1721331358&width=1200",
+    "categories": [
+      "Beauty",
+      "Multi-Purpose",
+      "Apothecary Essentials"
+    ],
+    "category_slugs": [
+      "beauty",
+      "multi-purpose",
+      "apothecary-essentials"
+    ]
+  },
+  {
+    "id": "jaxon-lane",
+    "name": "Jaxon Lane",
+    "homepage": "https://jaxonlane.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://jaxonlane.com/cdn/shop/files/Email_square_images_1200_x_1200_px_-_2024-08-12T182213.488.png?v=1723450956",
+    "categories": [
+      "Beauty",
+      "Men's Skincare",
+      "K-Beauty for Men"
+    ],
+    "category_slugs": [
+      "beauty",
+      "mens-skincare",
+      "k-beauty-for-men"
+    ]
+  },
+  {
+    "id": "jenni-kayne-home",
+    "name": "Jenni Kayne Home",
+    "homepage": "https://www.jennikayne.com/",
+    "vibe": "Quiet Luxury",
+    "vibe_slug": "quiet-luxury",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.jennikayne.com/cdn/shop/products/JenniKayne_BrentwoodBoucleChairNaturalWool_Ivory-1.jpg?v=1641501969",
+    "categories": [
+      "Home",
+      "California Modern",
+      "Organic Minimalism"
+    ],
+    "category_slugs": [
+      "home",
+      "california-modern",
+      "organic-minimalism"
+    ]
+  },
+  {
+    "id": "jonathan-adler",
+    "name": "Jonathan Adler",
+    "homepage": "https://jonathanadler.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://cdn.shopify.com/s/files/1/0270/1082/6274/files/SP25_european_chic_cd_greenwich_sofa.webp?v=1740161578",
+    "categories": [
+      "Home",
+      "Luxury Decor",
+      "Maximalist Design"
+    ],
+    "category_slugs": [
+      "home",
+      "luxury-decor",
+      "maximalist-design"
+    ]
+  },
+  {
+    "id": "joovv",
+    "name": "Joovv",
+    "homepage": "https://joovv.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Wellness",
+    "category_slug": "wellness",
+    "image": "http://joovv.com/cdn/shop/products/joovv-max-3-0-setup-door-001_1024x.jpg?v=1601928213",
+    "categories": [
+      "Wellness",
+      "Red Light Therapy",
+      "Light Treatment"
+    ],
+    "category_slugs": [
+      "wellness",
+      "red-light-therapy",
+      "light-treatment"
+    ]
+  },
+  {
+    "id": "karma-nuts",
+    "name": "Karma Nuts",
+    "homepage": "http://www.karmanuts.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://www.karmanuts.com/cdn/shop/products/Sweet-Matcha-Roasted-Cashew-1.5oz-Snack-Pack_1200x1200.jpg?v=1684220552",
+    "categories": [
+      "Food",
+      "Healthy Snacks",
+      "Skinless Cashews"
+    ],
+    "category_slugs": [
+      "food",
+      "healthy-snacks",
+      "skinless-cashews"
+    ]
+  },
+  {
+    "id": "kinfield",
+    "name": "Kinfield",
+    "homepage": "https://kinfield.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Personal Care",
+    "category_slug": "personal-care",
+    "image": "http://kinfield.com/cdn/shop/products/CC-PDP-1-Kels-Smile_1200x1200.jpg?v=1666744787",
+    "categories": [
+      "Personal Care",
+      "Natural Sunscreen",
+      "Clean Protection"
+    ],
+    "category_slugs": [
+      "personal-care",
+      "natural-sunscreen",
+      "clean-protection"
+    ]
+  },
+  {
+    "id": "kinto",
+    "name": "Kinto",
+    "homepage": "http://kinto-usa.com",
+    "vibe": "Quiet Luxury",
+    "vibe_slug": "quiet-luxury",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://kinto-usa.com/cdn/shop/files/20928_001_d2dde19d-858f-4dd3-8b55-49640941bd74_grande.jpg?v=1706830173",
+    "categories": [
+      "Home",
+      "Sustainable Tableware",
+      "Reusable Drinkware"
+    ],
+    "category_slugs": [
+      "home",
+      "sustainable-tableware",
+      "reusable-drinkware"
+    ]
+  },
+  {
+    "id": "kjaer-weis",
+    "name": "Kjaer Weis",
+    "homepage": "https://kjaerweis.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://kjaerweis.com/cdn/shop/products/DTC_CreamBlush_blossoming_IconicEdition_Packshot_1500x2500_1_5fe410a1-b594-46c4-8dfe-6928b2862afe.jpg?v=1678894634",
+    "categories": [
+      "Beauty",
+      "Luxury Makeup",
+      "Refillable System"
+    ],
+    "category_slugs": [
+      "beauty",
+      "luxury-makeup",
+      "refillable-system"
+    ]
+  },
+  {
+    "id": "known-supply",
+    "name": "Known Supply",
+    "homepage": "https://knownsupply.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://knownsupply.com/cdn/shop/files/Knownsupply6202be2c580de06202be2c582da.775044256202be2c582da.jpg?v=1721257039&width=2048",
+    "categories": [
+      "Fashion",
+      "Ethical Fashion",
+      "Transparent Basics"
+    ],
+    "category_slugs": [
+      "fashion",
+      "ethical-fashion",
+      "transparent-basics"
+    ]
+  },
+  {
+    "id": "kotn",
+    "name": "Kotn",
+    "homepage": "http://saalt.com",
+    "vibe": "Conscious Cool",
+    "vibe_slug": "conscious-cool",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://saalt.com/cdn/shop/files/Saalt-Cup-PDP-No-Bag-Himalayan-Pink-Reg_01.jpg?v=1725563396",
+    "categories": [
+      "Fashion",
+      "Ethical Fashion",
+      "Direct Trade Cotton"
+    ],
+    "category_slugs": [
+      "fashion",
+      "ethical-fashion",
+      "direct-trade-cotton"
+    ]
+  },
+  {
+    "id": "la-bouche-rouge",
+    "name": "La Bouche Rouge",
+    "homepage": "https://laboucherougeparis.com",
+    "vibe": "Quiet Luxury",
+    "vibe_slug": "quiet-luxury",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://laboucherougeparis.com/cdn/shop/files/1b.jpg?crop=center&height=1200&v=1713801262&width=1200",
+    "categories": [
+      "Beauty",
+      "Luxury Cosmetics",
+      "Plastic-Free Luxury"
+    ],
+    "category_slugs": [
+      "beauty",
+      "luxury-cosmetics",
+      "plastic-free-luxury"
+    ]
+  },
+  {
+    "id": "lisa-says-gah",
+    "name": "Lisa Says Gah",
+    "homepage": "https://lisasaysgah.com",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://lisasaysgah.com/cdn/shop/files/LSG11_14_20252026.jpg?v=1737429738",
+    "categories": [
+      "Fashion",
+      "Independent Fashion",
+      "Anti-Trend Curation"
+    ],
+    "category_slugs": [
+      "fashion",
+      "independent-fashion",
+      "anti-trend-curation"
+    ]
+  },
+  {
+    "id": "mack-weldon",
+    "name": "Mack Weldon",
+    "homepage": "https://mackweldon.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "https://cdn.shopify.com/s/files/1/0078/6825/2273/files/M01K13-ANGAR_Front_b6502986-d648-4f5d-aa84-c6dbf29eaca7.png?v=1726142794",
+    "categories": [
+      "Fashion",
+      "Men's Basics",
+      "Technical Underwear"
+    ],
+    "category_slugs": [
+      "fashion",
+      "mens-basics",
+      "technical-underwear"
+    ]
+  },
+  {
+    "id": "maiden-home",
+    "name": "Maiden Home",
+    "homepage": "https://maidenhome.com",
+    "vibe": "Elevated Everyday",
+    "vibe_slug": "elevated-everyday",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://maidenhome.com/cdn/shop/files/warren-sofa_mohair-fog_one-finish2.0_79f3e8d8-2c80-4e55-aefb-1d784717d74f.jpg?v=1730844134",
+    "categories": [
+      "Home",
+      "Furniture",
+      "Artisan Crafted"
+    ],
+    "category_slugs": [
+      "home",
+      "furniture",
+      "artisan-crafted"
+    ]
+  },
+  {
+    "id": "maison-louis-marie",
+    "name": "Maison Louis Marie",
+    "homepage": "https://maisonlouismarie.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://maisonlouismarie.com/cdn/shop/files/social_1200x1200.jpg?v=1614296018",
+    "categories": [
+      "Beauty",
+      "Fragrance",
+      "Clean Perfume"
+    ],
+    "category_slugs": [
+      "beauty",
+      "fragrance",
+      "clean-perfume"
+    ]
+  },
+  {
+    "id": "mara-hoffman",
+    "name": "Mara Hoffman",
+    "homepage": "http://marahoffman.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://marahoffman.com/cdn/shop/products/nomi-dress-mara-hoffman-1_80ac454e-b6b0-48f5-872d-bfb1481d4a23.jpg?v=1703014784&width=1024",
+    "categories": [
+      "Fashion",
+      "Luxury Fashion",
+      "Sustainable Luxury"
+    ],
+    "category_slugs": [
+      "fashion",
+      "luxury-fashion",
+      "sustainable-luxury"
+    ]
+  },
+  {
+    "id": "mate-the-label",
+    "name": "Mate the Label",
+    "homepage": "http://matethelabel.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://matethelabel.com/cdn/shop/files/240805_BC_MTL_Q3_SEPT_LOOK_16_ORGANIC_WAFFLE_COLLARED_HALF-ZIP_SWEATSHIRT_SWEATPANT_CINNAMON_0220_1024x1024.jpg?v=1731083709",
+    "categories": [
+      "Fashion",
+      "Organic Clothing",
+      "Clean Essentials"
+    ],
+    "category_slugs": [
+      "fashion",
+      "organic-clothing",
+      "clean-essentials"
+    ]
+  },
+  {
+    "id": "mater-soap",
+    "name": "Mater Soap",
+    "homepage": "https://www.matersoap.com",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://static1.squarespace.com/static/569680dbdc5cb485f84e05a7/56968136b204d5edf925d6c3/62cdf659855fe05867431eae/1738272215400/_DSC1225+copy+2.jpg?format=1500w",
+    "categories": [
+      "Beauty",
+      "Natural Soap",
+      "Food-Grade Soap"
+    ],
+    "category_slugs": [
+      "beauty",
+      "natural-soap",
+      "food-grade-soap"
+    ]
+  },
+  {
+    "id": "material",
+    "name": "Material",
+    "homepage": "https://materialkitchen.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://cdn.shopify.com/s/files/1/2304/7781/products/8Knife-AlmostBlack_e1b4aa63-831d-489b-96b4-4b0419bad2c0.png?v=1718214574",
+    "categories": [
+      "Home",
+      "Kitchen Tools",
+      "Elevated Essentials"
+    ],
+    "category_slugs": [
+      "home",
+      "kitchen-tools",
+      "elevated-essentials"
+    ]
+  },
+  {
+    "id": "material-kitchen-7311a",
+    "name": "Material Kitchen",
+    "homepage": "https://materialkitchen.com",
+    "vibe": "Conscious Cool",
+    "vibe_slug": "conscious-cool",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://cdn.shopify.com/s/files/1/2304/7781/products/Base-Maple.png?v=1633027138",
+    "categories": [
+      "Home",
+      "Kitchen Tools",
+      "Professional Grade"
+    ],
+    "category_slugs": [
+      "home",
+      "kitchen-tools",
+      "professional-grade"
+    ]
+  },
+  {
+    "id": "menu",
+    "name": "Menu",
+    "homepage": "https://us.audocph.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://us.audocph.com/cdn/shop/products/MENU_Radiohus_Sofa_Wing_Floor_Lamp_Stance_Vase.jpg?v=1663792473",
+    "categories": [
+      "Home",
+      "Furniture",
+      "Scandinavian Design"
+    ],
+    "category_slugs": [
+      "home",
+      "furniture",
+      "scandinavian-design"
+    ]
+  },
+  {
+    "id": "meow-meow-tweet",
+    "name": "Meow Meow Tweet",
+    "homepage": "http://meowmeowtweet.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://meowmeowtweet.com/cdn/shop/files/LDEO-web-trans.png?v=1702936295",
+    "categories": [
+      "Beauty",
+      "Clean Beauty",
+      "Zero Waste Personal Care"
+    ],
+    "category_slugs": [
+      "beauty",
+      "clean-beauty",
+      "zero-waste-personal-care"
+    ]
+  },
+  {
+    "id": "minna",
+    "name": "Minna",
+    "homepage": "https://www.minna-goods.com/",
+    "vibe": "New Heritage",
+    "vibe_slug": "new-heritage",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.minna-goods.com/cdn/shop/products/Pillow_Bolivia_A_styled.jpg?v=1737993145",
+    "categories": [
+      "Home",
+      "Textiles",
+      "Ethical Homewares"
+    ],
+    "category_slugs": [
+      "home",
+      "textiles",
+      "ethical-homewares"
+    ]
+  },
+  {
+    "id": "minor-figures",
+    "name": "Minor Figures",
+    "homepage": "https://minorfigures.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://minorfigures.com/cdn/shop/products/PACKSHOT_MISC_MERCH_LILAC_SOCKS_right_001.png?v=1708607852",
+    "categories": [
+      "Food",
+      "Coffee",
+      "Barista Oat Milk"
+    ],
+    "category_slugs": [
+      "food",
+      "coffee",
+      "barista-oat-milk"
+    ]
+  },
+  {
+    "id": "misen",
+    "name": "Misen",
+    "homepage": "https://misen.com/",
+    "vibe": "Quiet Luxury",
+    "vibe_slug": "quiet-luxury",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://misen.com/cdn/shop/files/8_BlueChef_sKnife-Shoppage.png?v=1722985992&width=2000",
+    "categories": [
+      "Home",
+      "Kitchen Tools",
+      "Performance Value"
+    ],
+    "category_slugs": [
+      "home",
+      "kitchen-tools",
+      "performance-value"
+    ]
+  },
+  {
+    "id": "mission-workshop",
+    "name": "Mission Workshop",
+    "homepage": "https://missionworkshop.com",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://missionworkshop.com/cdn/shop/products/Monty-OG_00-Product05.jpg?v=1630734225&width=2048",
+    "categories": [
+      "Fashion",
+      "Technical Bags",
+      "Weatherproof Gear"
+    ],
+    "category_slugs": [
+      "fashion",
+      "technical-bags",
+      "weatherproof-gear"
+    ]
+  },
+  {
+    "id": "moon-juice",
+    "name": "Moon Juice",
+    "homepage": "https://moonjuice.com/",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Wellness",
+    "category_slug": "wellness",
+    "image": "http://moonjuice.com/cdn/shop/files/2311_Crewneck_1024x1024.png?v=1699643902",
+    "categories": [
+      "Wellness",
+      "Adaptogens",
+      "Stress Supplements"
+    ],
+    "category_slugs": [
+      "wellness",
+      "adaptogens",
+      "stress-supplements"
+    ]
+  },
+  {
+    "id": "mushroom-revival",
+    "name": "Mushroom Revival",
+    "homepage": "https://www.mushroomrevival.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Wellness",
+    "category_slug": "wellness",
+    "image": "http://www.mushroomrevival.com/cdn/shop/products/Group145.png?v=1662757821",
+    "categories": [
+      "Wellness",
+      "Mushroom Supplements",
+      "Fungi Extracts"
+    ],
+    "category_slugs": [
+      "wellness",
+      "mushroom-supplements",
+      "fungi-extracts"
+    ]
+  },
+  {
+    "id": "native-shoes",
+    "name": "Native Shoes",
+    "homepage": "https://www.nativeshoes.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "https://www.nativeshoes.com/on/demandware.static/-/Sites-nas-master-catalog/default/dwa2064940/pdp-images/11100100-1001-1.png",
+    "categories": [
+      "Fashion",
+      "Sustainable Footwear",
+      "Recyclable Shoes"
+    ],
+    "category_slugs": [
+      "fashion",
+      "sustainable-footwear",
+      "recyclable-shoes"
+    ]
+  },
+  {
+    "id": "native-union",
+    "name": "Native Union",
+    "homepage": "https://www.nativeunion.com/",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Tech",
+    "category_slug": "tech",
+    "image": "http://www.nativeunion.com/cdn/shop/products/BELTCABLE_MFI_Zebra_Hero1_8dfc50d6-7bdb-41b5-b8f3-e03f3919de0e.png?v=1672882036",
+    "categories": [
+      "Tech",
+      "Phone Accessories",
+      "Design-Led Tech"
+    ],
+    "category_slugs": [
+      "tech",
+      "phone-accessories",
+      "design-led-tech"
+    ]
+  },
+  {
+    "id": "nili-lotan",
+    "name": "Nili Lotan",
+    "homepage": "https://www.nililotan.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.nililotan.com/cdn/shop/products/PF22_11765_L65_MAX_JACKET_BLACK.jpg?v=1725399089",
+    "categories": [
+      "Fashion",
+      "Designer Fashion",
+      "Timeless Essentials"
+    ],
+    "category_slugs": [
+      "fashion",
+      "designer-fashion",
+      "timeless-essentials"
+    ]
+  },
+  {
+    "id": "nisolo",
+    "name": "Nisolo",
+    "homepage": "https://nisolo.com",
+    "vibe": "Earth Toned Essentials",
+    "vibe_slug": "earth-toned-essentials",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "https://cdn.shopify.com/s/files/1/0277/9027/files/1XNOI_Pair_Front_0819.jpg?v=1739678573",
+    "categories": [
+      "Fashion",
+      "Ethical Fashion",
+      "Sustainable Leather"
+    ],
+    "category_slugs": [
+      "fashion",
+      "ethical-fashion",
+      "sustainable-leather"
+    ]
+  },
+  {
+    "id": "notary-ceramics",
+    "name": "Notary Ceramics",
+    "homepage": "http://www.notaryceramics.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.notaryceramics.com/cdn/shop/files/KrisLeBoeuf_NotaryCeramics-0175_1200x630.jpg?v=1721533380",
+    "categories": [
+      "Home",
+      "Handcrafted",
+      "Studio Pottery"
+    ],
+    "category_slugs": [
+      "home",
+      "handcrafted",
+      "studio-pottery"
+    ]
+  },
+  {
+    "id": "nudie-jeans",
+    "name": "Nudie Jeans",
+    "homepage": "https://nudie.centracdn.net",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "https://nudie.centracdn.net/client/dynamic/images/9040_1702edfa30-re-use-gold-8-fold.jpg",
+    "categories": [
+      "Fashion",
+      "Denim",
+      "Repair Program"
+    ],
+    "category_slugs": [
+      "fashion",
+      "denim",
+      "repair-program"
+    ]
+  },
+  {
+    "id": "necessaire",
+    "name": "N\u00e9cessaire",
+    "homepage": "https://necessaire.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://necessaire.com/cdn/shop/files/01_THEBODYACNEWASH_PDP_1024x1024.jpg?v=1691008879",
+    "categories": [
+      "Beauty",
+      "Body Care",
+      "Skin-First Approach"
+    ],
+    "category_slugs": [
+      "beauty",
+      "body-care",
+      "skin-first-approach"
+    ]
+  },
+  {
+    "id": "omsom",
+    "name": "Omsom",
+    "homepage": "https://www.omsom.com/",
+    "vibe": "Vibrant Maximalist",
+    "vibe_slug": "vibrant-maximalist",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://omsom.com/cdn/shop/files/Mala_PDP_hero_2x_3e895857-f249-4a6b-b5e3-10200ad5786c_1200x1200.png?v=1719235475",
+    "categories": [
+      "Food",
+      "Asian Sauces",
+      "Heritage Starters"
+    ],
+    "category_slugs": [
+      "food",
+      "asian-sauces",
+      "heritage-starters"
+    ]
+  },
+  {
+    "id": "open-spaces",
+    "name": "Open Spaces",
+    "homepage": "https://getopenspaces.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://getopenspaces.com/cdn/shop/files/OpenSpaces-UnderbedStorage-Grey-Product-PDP-2.webp?v=1716561513",
+    "categories": [
+      "Home",
+      "Organization",
+      "Mindful Storage"
+    ],
+    "category_slugs": [
+      "home",
+      "organization",
+      "mindful-storage"
+    ]
+  },
+  {
+    "id": "ordinary-habit",
+    "name": "Ordinary Habit",
+    "homepage": "https://www.ordinaryhabit.com/",
+    "vibe": "Earth Toned Essentials",
+    "vibe_slug": "earth-toned-essentials",
+    "category": "Lifestyle",
+    "category_slug": "lifestyle",
+    "image": "https://cdn.shopify.com/s/files/1/0383/3508/6636/files/moonlight-potions-puzzle-by-lida-ziruffo-733573.jpg?v=1727815160",
+    "categories": [
+      "Lifestyle",
+      "Puzzles",
+      "Mindful Games"
+    ],
+    "category_slugs": [
+      "lifestyle",
+      "puzzles",
+      "mindful-games"
+    ]
+  },
+  {
+    "id": "organic-basics",
+    "name": "Organic Basics",
+    "homepage": "http://organicbasics.com",
+    "vibe": "Conscious Curator",
+    "vibe_slug": "conscious-curator",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://organicbasics.com/cdn/shop/files/byidas8unw9lm1leynbr.jpg?v=1724152038",
+    "categories": [
+      "Fashion",
+      "Sustainable Basics",
+      "Ethical Underwear"
+    ],
+    "category_slugs": [
+      "fashion",
+      "sustainable-basics",
+      "ethical-underwear"
+    ]
+  },
+  {
+    "id": "osea",
+    "name": "Osea",
+    "homepage": "https://oseamalibu.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://oseamalibu.com/cdn/shop/files/HB-1-Flat-Google_111c559f-c913-44cb-ae65-0ed9b171c38a.jpg?v=1651259762&width=5760",
+    "categories": [
+      "Beauty",
+      "Clean Skincare",
+      "Seaweed Skincare"
+    ],
+    "category_slugs": [
+      "beauty",
+      "clean-skincare",
+      "seaweed-skincare"
+    ]
+  },
+  {
+    "id": "otherland",
+    "name": "Otherland",
+    "homepage": "https://www.otherland.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.otherland.com/cdn/shop/files/cardamon-mlik-3-wick-candle-3_1024x1024.png?v=1728586138",
+    "categories": [
+      "Home",
+      "Candles",
+      "Art Candles"
+    ],
+    "category_slugs": [
+      "home",
+      "candles",
+      "art-candles"
+    ]
+  },
+  {
+    "id": "outerknown",
+    "name": "Outerknown",
+    "homepage": "https://www.outerknown.com",
+    "vibe": "Conscious Cool",
+    "vibe_slug": "conscious-cool",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.outerknown.com/cdn/shop/files/The_Blanket_Shirt_HEA_0182_f27cd855-6e00-4298-9c15-549c7d3d9474.jpg?v=1727806756",
+    "categories": [
+      "Fashion",
+      "Sustainable Fashion",
+      "Circular Design"
+    ],
+    "category_slugs": [
+      "fashion",
+      "sustainable-fashion",
+      "circular-design"
+    ]
+  },
+  {
+    "id": "paloma-wool",
+    "name": "Paloma Wool",
+    "homepage": "https://palomawool.com",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://palomawool.com/cdn/shop/products/IMG_5446.jpg?v=1739458263",
+    "categories": [
+      "Fashion",
+      "Artistic Fashion",
+      "Experimental Design"
+    ],
+    "category_slugs": [
+      "fashion",
+      "artistic-fashion",
+      "experimental-design"
+    ]
+  },
+  {
+    "id": "pangaia",
+    "name": "Pangaia",
+    "homepage": "https://www.pangaia.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "https://cdn.shopify.com/s/files/1/0035/1309/0115/files/365_Heavyweight_Recycled_and_Organic_Cotton_Sweatshirt_Undyed-1.png?v=1697050619",
+    "categories": [
+      "Fashion",
+      "Materials Science",
+      "Bio-Based Innovation"
+    ],
+    "category_slugs": [
+      "fashion",
+      "materials-science",
+      "bio-based-innovation"
+    ]
+  },
+  {
+    "id": "parachute",
+    "name": "Parachute",
+    "homepage": "https://www.parachutehome.com/",
+    "vibe": "Elevated Everyday",
+    "vibe_slug": "elevated-everyday",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://images.ctfassets.net/ltric1hkjv72/1VXeldTdDKweQvuirD1F9w/f475c3b7cca8e9030d69d9700a2376ba/linen-top-sheet_moss_lightbox_cpg.jpg",
+    "categories": [
+      "Home",
+      "Bedding",
+      "Untreated Linens"
+    ],
+    "category_slugs": [
+      "home",
+      "bedding",
+      "untreated-linens"
+    ]
+  },
+  {
+    "id": "path-projects",
+    "name": "Path Projects",
+    "homepage": "https://pathprojects.com",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://pathprojects.com/cdn/shop/files/P026_Navy_1_1.jpg?crop=center&height=1200&v=1735936416&width=1200",
+    "categories": [
+      "Fashion",
+      "Running Apparel",
+      "Modular System"
+    ],
+    "category_slugs": [
+      "fashion",
+      "running-apparel",
+      "modular-system"
+    ]
+  },
+  {
+    "id": "pela-case",
+    "name": "Pela Case",
+    "homepage": "https://pelacase.ca",
+    "vibe": "Conscious Curator",
+    "vibe_slug": "conscious-curator",
+    "category": "Tech",
+    "category_slug": "tech",
+    "image": "http://pelacase.ca/cdn/shop/files/JUGGLING-COLORS_IP16P_BubblegumPink.jpg?crop=center&height=630&v=1740166706&width=1200",
+    "categories": [
+      "Tech",
+      "Phone Accessories",
+      "Compostable Cases"
+    ],
+    "category_slugs": [
+      "tech",
+      "phone-accessories",
+      "compostable-cases"
+    ]
+  },
+  {
+    "id": "people-tree",
+    "name": "People Tree",
+    "homepage": "http://peopletree.eu",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://peopletree.eu/cdn/shop/products/People_Tree_India_Dress_in_Navy_1.jpg?v=1682081342",
+    "categories": [
+      "Fashion",
+      "Fair Trade",
+      "Pioneer Ethics"
+    ],
+    "category_slugs": [
+      "fashion",
+      "fair-trade",
+      "pioneer-ethics"
+    ]
+  },
+  {
+    "id": "plant-people",
+    "name": "Plant People",
+    "homepage": "https://www.plantpeople.co/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Wellness",
+    "category_slug": "wellness",
+    "image": "https://www.plantpeople.co/cdn/shop/files/PDP-Ingredients-IP_1200x1200.png?v=1736889815",
+    "categories": [
+      "Wellness",
+      "CBD",
+      "Plant Remedies"
+    ],
+    "category_slugs": [
+      "wellness",
+      "cbd",
+      "plant-remedies"
+    ]
+  },
+  {
+    "id": "poketo",
+    "name": "Poketo",
+    "homepage": "https://www.poketo.com",
+    "vibe": "Vibrant Maximalist",
+    "vibe_slug": "vibrant-maximalist",
+    "category": "Lifestyle",
+    "category_slug": "lifestyle",
+    "image": "http://www.poketo.com/cdn/shop/products/sitck_it_calendar_weekly_2400-1_8f3abfac-ddee-4447-8fd9-8d3589bc2814.jpg?v=1571437302",
+    "categories": [
+      "Lifestyle",
+      "Stationery & Accessories",
+      "Artist Collaborations"
+    ],
+    "category_slugs": [
+      "lifestyle",
+      "stationery-accessories",
+      "artist-collaborations"
+    ]
+  },
+  {
+    "id": "pop-bottle",
+    "name": "Pop & Bottle",
+    "homepage": "https://www.popandbottle.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://www.popandbottle.com/cdn/shop/products/P_B_REND_AML_Thai_01-Front_Cond_LG_1024x.png?v=1667325635",
+    "categories": [
+      "Food",
+      "Plant Milk",
+      "Functional Latte"
+    ],
+    "category_slugs": [
+      "food",
+      "plant-milk",
+      "functional-latte"
+    ]
+  },
+  {
+    "id": "poppi",
+    "name": "Poppi",
+    "homepage": "https://drinkpoppi.com",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://drinkpoppi.com/cdn/shop/files/CreamSoda_withCondensation.png?v=1736127725",
+    "categories": [
+      "Food",
+      "Functional Beverage",
+      "Prebiotic Soda"
+    ],
+    "category_slugs": [
+      "food",
+      "functional-beverage",
+      "prebiotic-soda"
+    ]
+  },
+  {
+    "id": "print-all-over-me",
+    "name": "Print All Over Me",
+    "homepage": "https://paom.com",
+    "vibe": "Vibrant Maximalist",
+    "vibe_slug": "vibrant-maximalist",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://paom.com/cdn/shop/products/0Gy7G6d1QIaE0AzwOLme_1024x1024.png?v=1589143745",
+    "categories": [
+      "Fashion",
+      "Digital Printing",
+      "Creator Platform"
+    ],
+    "category_slugs": [
+      "fashion",
+      "digital-printing",
+      "creator-platform"
+    ]
+  },
+  {
+    "id": "public-goods-96d4b",
+    "name": "Public Goods",
+    "homepage": "https://www.publicgoods.com",
+    "vibe": "Conscious Curator",
+    "vibe_slug": "conscious-curator",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.publicgoods.com/cdn/shop/products/Hand-Soap-copy.jpg?v=1628023283",
+    "categories": [
+      "Home",
+      "Essential Goods",
+      "Minimal Design"
+    ],
+    "category_slugs": [
+      "home",
+      "essential-goods",
+      "minimal-design"
+    ]
+  },
+  {
+    "id": "quiet-town",
+    "name": "Quiet Town",
+    "homepage": "https://quiettownhome.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://quiettownhome.com/cdn/shop/products/sunshower_atlantic_main.jpg?v=1646318118",
+    "categories": [
+      "Home",
+      "Bathroom",
+      "Shower Curtains"
+    ],
+    "category_slugs": [
+      "home",
+      "bathroom",
+      "shower-curtains"
+    ]
+  },
+  {
+    "id": "rachel-comey",
+    "name": "Rachel Comey",
+    "homepage": "https://rachelcomey.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://rachelcomey.com/cdn/shop/files/213W_125_LC010_VACHETTA_LEATHER_BLACK_-_04.jpg?v=1683943838&width=2048",
+    "categories": [
+      "Fashion",
+      "Independent Designer",
+      "Artistic Fashion"
+    ],
+    "category_slugs": [
+      "fashion",
+      "independent-designer",
+      "artistic-fashion"
+    ]
+  },
+  {
+    "id": "rainbo",
+    "name": "Rainbo",
+    "homepage": "http://rainbo.com",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Wellness",
+    "category_slug": "wellness",
+    "image": "http://rainbo.com/cdn/shop/files/Screenshot2024-06-03at8.03.25AM.png?v=1719034729",
+    "categories": [
+      "Wellness",
+      "Functional Mushrooms",
+      "Medicinal Extracts"
+    ],
+    "category_slugs": [
+      "wellness",
+      "functional-mushrooms",
+      "medicinal-extracts"
+    ]
+  },
+  {
+    "id": "reformation",
+    "name": "Reformation",
+    "homepage": "https://www.thereformation.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "https://media.thereformation.com/image/upload/f_auto,q_auto,dpr_1.0/w_800,c_scale//PRD-SFCC/0803555/KHAKI/0803555.1.KHAKI?_s=RAABAB0",
+    "categories": [
+      "Fashion",
+      "Sustainable Fashion",
+      "Deadstock Design"
+    ],
+    "category_slugs": [
+      "fashion",
+      "sustainable-fashion",
+      "deadstock-design"
+    ]
+  },
+  {
+    "id": "rejina-pyo",
+    "name": "Rejina Pyo",
+    "homepage": "https://rejinapyo.com",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://rejinapyo.com/cdn/shop/files/8_9ac527cc-ff87-4a5a-ab2e-ffb75ee13d8f.png?v=1713258958",
+    "categories": [
+      "Fashion",
+      "Contemporary Designer",
+      "Sculptural Fashion"
+    ],
+    "category_slugs": [
+      "fashion",
+      "contemporary-designer",
+      "sculptural-fashion"
+    ]
+  },
+  {
+    "id": "revtown",
+    "name": "Revtown",
+    "homepage": "https://www.revtownusa.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.revtownusa.com/cdn/shop/products/StandardCrewLifestyle_1_1200x1200.jpg?v=1628605184",
+    "categories": [
+      "Fashion",
+      "Denim",
+      "Mill-Direct Jeans"
+    ],
+    "category_slugs": [
+      "fashion",
+      "denim",
+      "mill-direct-jeans"
+    ]
+  },
+  {
+    "id": "rishi-tea",
+    "name": "Rishi Tea",
+    "homepage": "https://rishi-tea.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://rishi-tea.com/cdn/shop/files/PDP-Carousel-Matcha-Giftset-3.jpg?v=1709669665",
+    "categories": [
+      "Food",
+      "Specialty Tea",
+      "Direct Trade Tea"
+    ],
+    "category_slugs": [
+      "food",
+      "specialty-tea",
+      "direct-trade-tea"
+    ]
+  },
+  {
+    "id": "river-organics",
+    "name": "River Organics",
+    "homepage": "http://www.riverorganics.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://www.riverorganics.com/cdn/shop/files/DSC_0341_1_1200x1200.jpg?v=1719253298",
+    "categories": [
+      "Beauty",
+      "Clean Beauty",
+      "Plastic-Free Makeup"
+    ],
+    "category_slugs": [
+      "beauty",
+      "clean-beauty",
+      "plastic-free-makeup"
+    ]
+  },
+  {
+    "id": "rothys",
+    "name": "Rothy's",
+    "homepage": "http://rothys.com",
+    "vibe": "Conscious Cool",
+    "vibe_slug": "conscious-cool",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://rothys.com/cdn/shop/files/152_PointII_Ecru_PrimaryOverhead.jpg?v=1720524474",
+    "categories": [
+      "Fashion",
+      "Sustainable Footwear",
+      "Recycled Plastic"
+    ],
+    "category_slugs": [
+      "fashion",
+      "sustainable-footwear",
+      "recycled-plastic"
+    ]
+  },
+  {
+    "id": "saalt",
+    "name": "SAALT",
+    "homepage": "http://saalt.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Personal Care",
+    "category_slug": "personal-care",
+    "image": "http://saalt.com/cdn/shop/files/Saalt-Cup-PDP-No-Bag-Himalayan-Pink-Reg_01.jpg?v=1725563396",
+    "categories": [
+      "Personal Care",
+      "Sustainable Period",
+      "Reusable Cup"
+    ],
+    "category_slugs": [
+      "personal-care",
+      "sustainable-period",
+      "reusable-cup"
+    ]
+  },
+  {
+    "id": "sabai",
+    "name": "Sabai",
+    "homepage": "https://sabai.design/",
+    "vibe": "Conscious Cool",
+    "vibe_slug": "conscious-cool",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://sabai.design/cdn/shop/files/sofatosectional-gifnotype-05_1200x800.png?v=1717780989",
+    "categories": [
+      "Home",
+      "Furniture",
+      "Circular Sofa"
+    ],
+    "category_slugs": [
+      "home",
+      "furniture",
+      "circular-sofa"
+    ]
+  },
+  {
+    "id": "saie",
+    "name": "Saie",
+    "homepage": "https://saiehello.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://saiehello.com/cdn/shop/products/saie-glowy-super-gel-2022-featured-1_1200x1200.png?v=1667319393",
+    "categories": [
+      "Beauty",
+      "Clean Makeup",
+      "Performance Clean"
+    ],
+    "category_slugs": [
+      "beauty",
+      "clean-makeup",
+      "performance-clean"
+    ]
+  },
+  {
+    "id": "sangre-de-fruta",
+    "name": "Sangre de Fruta",
+    "homepage": "https://www.sangredefruta.com",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://www.sangredefruta.com/cdn/shop/products/ecomboxandbottle4.jpg?v=1717452563",
+    "categories": [
+      "Beauty",
+      "Botanical Beauty",
+      "Garden-to-Bottle"
+    ],
+    "category_slugs": [
+      "beauty",
+      "botanical-beauty",
+      "garden-to-bottle"
+    ]
+  },
+  {
+    "id": "schoolhouse",
+    "name": "Schoolhouse",
+    "homepage": "https://www.schoolhouse.com/",
+    "vibe": "New Heritage",
+    "vibe_slug": "new-heritage",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://cdn.shopify.com/s/files/1/1159/3118/products/IsaacNB_product_WEB.jpg?v=1692393573",
+    "categories": [
+      "Home",
+      "Lighting",
+      "American Craft"
+    ],
+    "category_slugs": [
+      "home",
+      "lighting",
+      "american-craft"
+    ]
+  },
+  {
+    "id": "sheets-giggles",
+    "name": "Sheets & Giggles",
+    "homepage": "http://sheetsgiggles.com",
+    "vibe": "Conscious Curator",
+    "vibe_slug": "conscious-curator",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://sheetsgiggles.com/cdn/shop/files/Fitted-Sheet-Only-_-20_-Deep-Pockets-Sheets-_-Giggles-67388245.jpg?v=1722545423",
+    "categories": [
+      "Home",
+      "Sustainable Bedding",
+      "Eucalyptus Sheets"
+    ],
+    "category_slugs": [
+      "home",
+      "sustainable-bedding",
+      "eucalyptus-sheets"
+    ]
+  },
+  {
+    "id": "sijo",
+    "name": "Sijo",
+    "homepage": "https://sijohome.com/",
+    "vibe": "Quiet Luxury",
+    "vibe_slug": "quiet-luxury",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://sijohome.com/cdn/shop/products/Navystripesheetsetfoldcorp_grande.jpg?v=1738820600",
+    "categories": [
+      "Home",
+      "Bedding",
+      "Eucalyptus Sheets"
+    ],
+    "category_slugs": [
+      "home",
+      "bedding",
+      "eucalyptus-sheets"
+    ]
+  },
+  {
+    "id": "slash-objects",
+    "name": "Slash Objects",
+    "homepage": "https://slashobjects.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://slashobjects.com/cdn/shop/files/LinoTable-Cippolino_SlashObjects_Unbroken_web_1200x1499.jpg?v=1684445236",
+    "categories": [
+      "Home",
+      "Reclaimed Design",
+      "Rubber Homewares"
+    ],
+    "category_slugs": [
+      "home",
+      "reclaimed-design",
+      "rubber-homewares"
+    ]
+  },
+  {
+    "id": "st-frank",
+    "name": "St. Frank",
+    "homepage": "https://www.stfrank.com/",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://cdn.shopify.com/s/files/1/0236/6715/files/MTO_22x22_Dark_Vines_Indigo_01.jpg?v=1726730084",
+    "categories": [
+      "Home",
+      "Global Textiles",
+      "Artisan Luxury"
+    ],
+    "category_slugs": [
+      "home",
+      "global-textiles",
+      "artisan-luxury"
+    ]
+  },
+  {
+    "id": "stasher",
+    "name": "Stasher",
+    "homepage": "http://www.stasherbag.com",
+    "vibe": "Conscious Curator",
+    "vibe_slug": "conscious-curator",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.stasherbag.com/cdn/shop/files/Gallon_TidePool_OW_Veggies_2800.jpg?v=1736544034&width=2048",
+    "categories": [
+      "Home",
+      "Zero Waste",
+      "Silicone Storage"
+    ],
+    "category_slugs": [
+      "home",
+      "zero-waste",
+      "silicone-storage"
+    ]
+  },
+  {
+    "id": "stone-hollow-farmstead",
+    "name": "Stone Hollow Farmstead",
+    "homepage": "https://stonehollowfarmstead.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://www.stonehollowfarmstead.com/cdn/shop/files/stone-hollow-farmstead-grapefruit-honey-marmalade-shf-food-in-jars-default-title-37503915196668_900x_jpg_bbeb905e-4c5b-477b-ae37-7f70b798ff0f.webp?v=1729968430",
+    "categories": [
+      "Food",
+      "Farm Products",
+      "Preserved Goods"
+    ],
+    "category_slugs": [
+      "food",
+      "farm-products",
+      "preserved-goods"
+    ]
+  },
+  {
+    "id": "story-mfg",
+    "name": "Story MFG",
+    "homepage": "https://storymfg.com/",
+    "vibe": "Earth Toned Essentials",
+    "vibe_slug": "earth-toned-essentials",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.storymfg.com/cdn/shop/files/ELLA_BLOUSE_ECRU_STORY9.jpg?v=1740051477",
+    "categories": [
+      "Fashion",
+      "Sustainable Fashion",
+      "Positive Products"
+    ],
+    "category_slugs": [
+      "fashion",
+      "sustainable-fashion",
+      "positive-products"
+    ]
+  },
+  {
+    "id": "sunday-citizen",
+    "name": "Sunday Citizen",
+    "homepage": "https://sundaycitizen.co/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://sundaycitizen.co/cdn/shop/files/SC_Snug-Throw_Cloud-Grey_1.jpg?v=1740805516",
+    "categories": [
+      "Home",
+      "Bedding",
+      "Luxury Comfort"
+    ],
+    "category_slugs": [
+      "home",
+      "bedding",
+      "luxury-comfort"
+    ]
+  },
+  {
+    "id": "sundays",
+    "name": "Sundays",
+    "homepage": "http://www.sundays-company.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://www.sundays-company.com/cdn/shop/files/SOF-YJ-005-018_7_000_HERO_a96fbf9d-9b04-435c-9386-3a5f320c93e2.jpg?v=1722985647&width=1024",
+    "categories": [
+      "Home",
+      "Sustainable Furniture",
+      "Non-Toxic Design"
+    ],
+    "category_slugs": [
+      "home",
+      "sustainable-furniture",
+      "non-toxic-design"
+    ]
+  },
+  {
+    "id": "supergoop",
+    "name": "Supergoop",
+    "homepage": "https://supergoop.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "https://cdn.shopify.com/s/files/1/1503/5658/files/PLAY_162ml_Img1_new.jpg?v=1716987559",
+    "categories": [
+      "Beauty",
+      "Sun Protection",
+      "Everyday SPF"
+    ],
+    "category_slugs": [
+      "beauty",
+      "sun-protection",
+      "everyday-spf"
+    ]
+  },
+  {
+    "id": "susan-alexandra",
+    "name": "Susan Alexandra",
+    "homepage": "https://susanalexandra.com/",
+    "vibe": "New Nostalgic",
+    "vibe_slug": "new-nostalgic",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.susanalexandra.com/cdn/shop/files/Bag_2000x2500_WEB-NEW-2.png?v=1692378025",
+    "categories": [
+      "Fashion",
+      "Accessories",
+      "Beaded Joy"
+    ],
+    "category_slugs": [
+      "fashion",
+      "accessories",
+      "beaded-joy"
+    ]
+  },
+  {
+    "id": "tata-harper",
+    "name": "Tata Harper",
+    "homepage": "https://www.tataharperskincare.com/",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://tataharperskincare.com/cdn/shop/products/regenerating-cleanser-product-closeup.jpg?v=1739310636",
+    "categories": [
+      "Beauty",
+      "Natural Luxury",
+      "Farm-to-Face"
+    ],
+    "category_slugs": [
+      "beauty",
+      "natural-luxury",
+      "farm-to-face"
+    ]
+  },
+  {
+    "id": "tattly",
+    "name": "Tattly",
+    "homepage": "https://tattly.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Lifestyle",
+    "category_slug": "lifestyle",
+    "image": "http://tattly.com/cdn/shop/products/tattly_lara-maju_mushrooms-00_ad70e6e1-06ea-4aa0-a530-ad0d848b57a0_1200x1200.png?v=1652975345",
+    "categories": [
+      "Lifestyle",
+      "Temporary Tattoos",
+      "Designer Tattoos"
+    ],
+    "category_slugs": [
+      "lifestyle",
+      "temporary-tattoos",
+      "designer-tattoos"
+    ]
+  },
+  {
+    "id": "ten-thousand",
+    "name": "Ten Thousand",
+    "homepage": "https://www.tenthousand.cc",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "https://www.tenthousand.cc/cdn/shop/files/ten-thousand-interval-black-7-front_2b6c48d5-3511-4c72-8a3e-3ddebf27fb20_1200x1200.jpg?v=1730471167",
+    "categories": [
+      "Fashion",
+      "Workout Gear",
+      "Training Essentials"
+    ],
+    "category_slugs": [
+      "fashion",
+      "workout-gear",
+      "training-essentials"
+    ]
+  },
+  {
+    "id": "tentree",
+    "name": "Tentree",
+    "homepage": "https://www.tentree.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "https://cdn.shopify.com/s/files/1/2341/3995/products/Black-Mens-Eco-Friendly-Pullover-TCM2563-0164_2.jpg?v=1684190858",
+    "categories": [
+      "Fashion",
+      "Eco Fashion",
+      "Impact Apparel"
+    ],
+    "category_slugs": [
+      "fashion",
+      "eco-fashion",
+      "impact-apparel"
+    ]
+  },
+  {
+    "id": "the-citizenry",
+    "name": "The Citizenry",
+    "homepage": "https://www.the-citizenry.com",
+    "vibe": "Conscious Cool",
+    "vibe_slug": "conscious-cool",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "https://cdn.shopify.com/s/files/1/0438/1069/files/Helm_Sofa_Performance_Linen_Weave_Pearl_1.jpg?v=1692301295",
+    "categories": [
+      "Home",
+      "Artisan Made",
+      "Global Craftsmanship"
+    ],
+    "category_slugs": [
+      "home",
+      "artisan-made",
+      "global-craftsmanship"
+    ]
+  },
+  {
+    "id": "the-nue-co",
+    "name": "The Nue Co.",
+    "homepage": "https://www.thenueco.com/",
+    "vibe": "Modern Mystique",
+    "vibe_slug": "modern-mystique",
+    "category": "Wellness",
+    "category_slug": "wellness",
+    "image": "http://www.thenueco.com/cdn/shop/files/the-wash-day-set-the-nue-co-894428.jpg?v=1737721403",
+    "categories": [
+      "Wellness",
+      "Supplements",
+      "Functional Supplements"
+    ],
+    "category_slugs": [
+      "wellness",
+      "supplements",
+      "functional-supplements"
+    ]
+  },
+  {
+    "id": "thousand-fell",
+    "name": "Thousand Fell",
+    "homepage": "https://www.thousandfell.com",
+    "vibe": "Elevated Everyday",
+    "vibe_slug": "elevated-everyday",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.thousandfell.com/cdn/shop/files/Court_white_2_1200x1200.jpg?v=1706898942",
+    "categories": [
+      "Fashion",
+      "Sustainable Footwear",
+      "Circular Sneakers"
+    ],
+    "category_slugs": [
+      "fashion",
+      "sustainable-footwear",
+      "circular-sneakers"
+    ]
+  },
+  {
+    "id": "topicals",
+    "name": "Topicals",
+    "homepage": "https://mytopicals.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://mytopicals.com/cdn/shop/files/240623_TOPICALS_Faded_Serum_Ppage_Image_1_1_11zon_2320x2784.jpg?v=1721131823",
+    "categories": [
+      "Beauty",
+      "Skincare",
+      "Chronic Conditions"
+    ],
+    "category_slugs": [
+      "beauty",
+      "skincare",
+      "chronic-conditions"
+    ]
+  },
+  {
+    "id": "tower-28",
+    "name": "Tower 28",
+    "homepage": "https://www.tower28beauty.com/",
+    "vibe": "Vibrant Maximalist",
+    "vibe_slug": "vibrant-maximalist",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://www.tower28beauty.com/cdn/shop/files/ShineOn_20Fire_91f1d7eb-2bac-469c-9413-dd2176bbebb5.webp?v=1726680083",
+    "categories": [
+      "Beauty",
+      "Clean Makeup",
+      "Sensitive Skin"
+    ],
+    "category_slugs": [
+      "beauty",
+      "clean-makeup",
+      "sensitive-skin"
+    ]
+  },
+  {
+    "id": "tracksmith",
+    "name": "Tracksmith",
+    "homepage": "https://www.tracksmith.com",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall24-Womens-Fells-Short-Tights-Navy-On-Model.png?v=1729784275?bg=f8f8f8&fit=fillmax&w=1080&h=1080",
+    "categories": [
+      "Fashion",
+      "Running Apparel",
+      "Performance Heritage"
+    ],
+    "category_slugs": [
+      "fashion",
+      "running-apparel",
+      "performance-heritage"
+    ]
+  },
+  {
+    "id": "true-botanicals",
+    "name": "True Botanicals",
+    "homepage": "https://truebotanicals.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://truebotanicals.com/cdn/shop/files/Tried_TrueWellnessEssentials_Silo_8c1d62a6-d345-46c3-b860-0c5d29a87823.jpg?v=1739298007",
+    "categories": [
+      "Beauty",
+      "Clean Skincare",
+      "Clinical Natural"
+    ],
+    "category_slugs": [
+      "beauty",
+      "clean-skincare",
+      "clinical-natural"
+    ]
+  },
+  {
+    "id": "united-by-blue",
+    "name": "United By Blue",
+    "homepage": "https://unitedbyblue.com",
+    "vibe": "Conscious Curator",
+    "vibe_slug": "conscious-curator",
+    "category": "Outdoor",
+    "category_slug": "outdoor",
+    "image": "http://unitedbyblue.com/cdn/shop/files/web-fe-UnitedByBlue_r1_03A_7836.jpg?v=1721145582",
+    "categories": [
+      "Outdoor",
+      "Sustainable Outdoor",
+      "Ocean Impact Gear"
+    ],
+    "category_slugs": [
+      "outdoor",
+      "sustainable-outdoor",
+      "ocean-impact-gear"
+    ]
+  },
+  {
+    "id": "vetta",
+    "name": "Vetta",
+    "homepage": "https://www.vettacapsule.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.vettacapsule.com/cdn/shop/products/vetta-the-wrap-top-2-0-capsule-wardrobe-14716214149252_1200x1200.jpg?v=1606156631",
+    "categories": [
+      "Fashion",
+      "Sustainable Fashion",
+      "Capsule Wardrobe"
+    ],
+    "category_slugs": [
+      "fashion",
+      "sustainable-fashion",
+      "capsule-wardrobe"
+    ]
+  },
+  {
+    "id": "vintners-daughter",
+    "name": "Vintner's Daughter",
+    "homepage": "https://vintnersdaughter.com",
+    "vibe": "Conscious Curator",
+    "vibe_slug": "conscious-curator",
+    "category": "Beauty",
+    "category_slug": "beauty",
+    "image": "http://vintnersdaughter.com/cdn/shop/files/2023_VD_ABS_30ml_EcommProduct_Badges_1400x1220_c5c04579-0abc-4d00-b29d-ba1c2cd1c795_1024x1024.jpg?v=1709657286",
+    "categories": [
+      "Beauty",
+      "Active Botanicals",
+      "Slow Skincare"
+    ],
+    "category_slugs": [
+      "beauty",
+      "active-botanicals",
+      "slow-skincare"
+    ]
+  },
+  {
+    "id": "vollebak",
+    "name": "Vollebak",
+    "homepage": "https://vollebak.com",
+    "vibe": "Functional Futurist",
+    "vibe_slug": "functional-futurist",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://vollebak.com/cdn/shop/files/carbon_fibre_pants_with_dyneema_5641.webp?v=1739984948&width=2048",
+    "categories": [
+      "Fashion",
+      "Technical Apparel",
+      "Material Innovation"
+    ],
+    "category_slugs": [
+      "fashion",
+      "technical-apparel",
+      "material-innovation"
+    ]
+  },
+  {
+    "id": "vrai",
+    "name": "Vrai",
+    "homepage": "https://www.vrai.com",
+    "vibe": "Conscious Cool",
+    "vibe_slug": "conscious-cool",
+    "category": "Jewelry",
+    "category_slug": "jewelry",
+    "image": "https://www.datocms-assets.com/25216/1604687036-solitaire-round-necklace-1-0ct-yellow-gold-front.jpg?auto=enhance&amp;fm=avif&amp;w=1200&amp;h=630&amp;q=75&amp;fit=fillmax&amp;fill=solid&amp;fill-color=f7f7f8",
+    "categories": [
+      "Jewelry",
+      "Lab Diamonds",
+      "Carbon Neutral Gems"
+    ],
+    "category_slugs": [
+      "jewelry",
+      "lab-diamonds",
+      "carbon-neutral-gems"
+    ]
+  },
+  {
+    "id": "w-p",
+    "name": "W&P",
+    "homepage": "https://wandp.com/",
+    "vibe": "Elevated Everyday",
+    "vibe_slug": "elevated-everyday",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://wandp.com/cdn/shop/products/36_cf158a5e-a434-42ca-b1bb-2763d5a5dde1.jpg?v=1688754341",
+    "categories": [
+      "Home",
+      "Food Storage",
+      "Sustainable Containers"
+    ],
+    "category_slugs": [
+      "home",
+      "food-storage",
+      "sustainable-containers"
+    ]
+  },
+  {
+    "id": "wandering-bear",
+    "name": "Wandering Bear",
+    "homepage": "https://wanderingbearcoffee.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Food",
+    "category_slug": "food",
+    "image": "http://wanderingbearcoffee.com/cdn/shop/products/96oz_Hero_Render-Vanilla_7ec9ec00-a8c3-4bd1-8fcc-2c58284c7913_grande.png?v=1667314066",
+    "categories": [
+      "Food",
+      "Coffee",
+      "Cold Brew"
+    ],
+    "category_slugs": [
+      "food",
+      "coffee",
+      "cold-brew"
+    ]
+  },
+  {
+    "id": "western-rise",
+    "name": "Western Rise",
+    "homepage": "https://westernrise.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://westernrise.com/cdn/shop/products/020322-WR-ECOM-SPRING-1530.jpg?v=1663244467&width=2048",
+    "categories": [
+      "Fashion",
+      "Performance Apparel",
+      "Technical Minimalism"
+    ],
+    "category_slugs": [
+      "fashion",
+      "performance-apparel",
+      "technical-minimalism"
+    ]
+  },
+  {
+    "id": "woollx",
+    "name": "Woollx",
+    "homepage": "https://www.woolx.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Fashion",
+    "category_slug": "fashion",
+    "image": "http://www.woolx.com/cdn/shop/files/x502-001-5.jpg?v=1726846964",
+    "categories": [
+      "Fashion",
+      "Merino Wool",
+      "Performance Natural"
+    ],
+    "category_slugs": [
+      "fashion",
+      "merino-wool",
+      "performance-natural"
+    ]
+  },
+  {
+    "id": "wynd",
+    "name": "Wynd",
+    "homepage": "https://hellowynd.com",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://hellowynd.com/cdn/shop/products/WYND-Max.jpg?v=1616431837",
+    "categories": [
+      "Home",
+      "Air Purification",
+      "Smart Filtration"
+    ],
+    "category_slugs": [
+      "home",
+      "air-purification",
+      "smart-filtration"
+    ]
+  },
+  {
+    "id": "xaquixe",
+    "name": "Xaquixe",
+    "homepage": "https://www.xaquixe.com/",
+    "vibe": "Other",
+    "vibe_slug": "other",
+    "category": "Home",
+    "category_slug": "home",
+    "image": "http://xaquixe.com/cdn/shop/files/jicaritaspa_thumbnail.jpg?v=1722215222",
+    "categories": [
+      "Home",
+      "Glassware",
+      "Recycled Glass"
+    ],
+    "category_slugs": [
+      "home",
+      "glassware",
+      "recycled-glass"
+    ]
+  }
+]
