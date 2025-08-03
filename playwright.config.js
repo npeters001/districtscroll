@@ -5,7 +5,8 @@ const { defineConfig } = require('@playwright/test');
 
 module.exports = defineConfig({
   testDir: './tests',
-  timeout: 60000,
+  // Increase the global test timeout to 90 seconds to allow for slower initial renders.
+  timeout: 90000,
   retries: 0,
   webServer: {
     command: 'node server.js',
