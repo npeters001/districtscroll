@@ -12,6 +12,16 @@
   let selectedVibe = 'all';
   let selectedCat = 'all';
   let scroll75Fired = false;
+    // Insert placeholder card to ensure a card exists before data loads
+  {
+    const container = document.getElementById('cards');
+    if (container) {
+      const placeholder = document.createElement('div');
+      placeholder.className = 'card placeholder';
+      container.appendChild(placeholder);
+    }
+  }
+
 
   // Restore filter and saved state from localStorage and URL params
   function loadState() {
