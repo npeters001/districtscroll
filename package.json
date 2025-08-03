@@ -1,0 +1,13 @@
+{
+  "name": "districtscroll",
+  "version": "1.0.0",
+  "description": "Zero‑cost brand browser for DistrictScroll",
+  "scripts": {
+    "test": "playwright test",
+    "serve": "node server.js",
+    "check-bundle": "node scripts/check-bundle.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.0"
+  }
+}
