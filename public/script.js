@@ -12,16 +12,24 @@
   let selectedVibe = 'all';
   let selectedCat = 'all';
   let scroll75Fired = false;
-    // Insert placeholder card to ensure a card exists before data loads
+
+  // Insert placeholder card to ensure a card exists before data loads
   {
     const container = document.getElementById('cards');
     if (container) {
       const placeholder = document.createElement('div');
       placeholder.className = 'card placeholder';
+      const svgNS = 'http://www.w3.org/2000/svg';
+      const heart = document.createElementNS(svgNS, 'svg');
+      heart.setAttribute('viewBox', '0 0 24 24');
+      heart.setAttribute('class', 'heart');
+      const path = document.createElementNS(svgNS, 'path');
+      path.setAttribute('d', 'M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 6.02 4.02 4 6.5 4c1.74 0 3.41 0.81 4.5 2.09C12.09 4.81 13.76 4 15.5 4 17.98 4 20 6.02 20 8.5c0 3.78 - 3.4 6.86 - 8.55 11.54L12 21.35z');
+      heart.appendChild(path);
+      placeholder.appendChild(heart);
       container.appendChild(placeholder);
     }
   }
-
 
   // Restore filter and saved state from localStorage and URL params
   function loadState() {
@@ -228,7 +236,16 @@
   fetch('brands.json')
     .then((r) => r.json())
     .then((json) => {
+      // Successfully fetched brand list
       brands = json;
+    })
+    .catch((err) => {
+      // If fetching fails, log the error and fall back to an empty list
+      console.error('Failed to fetch brands.json:', err);
+      brands = [];
+    })
+    .finally(() => {
+      // Always initialise the page, even if brand data failed to load
       loadState();
       buildMaps();
       renderPills();
